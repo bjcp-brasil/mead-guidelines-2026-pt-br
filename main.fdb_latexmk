@@ -1,6 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1788206823.64302 "/Users/hboavent/Projects/personal/mead-guidelines-2026-pt-br/main.tex" "main.pdf" "main" 1788206824.41216 0
-  "/Users/hboavent/Projects/personal/mead-guidelines-2026-pt-br/main.tex" 1788204410.73367 1888 399c7b305548a79cfe1be25c0ed626b1 ""
+["pdflatex"] 1788208827.58202 "main.tex" "main.pdf" "main" 1788208828.31055 0
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1136768653 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -55,6 +54,7 @@
   "/usr/local/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty" 1738182759 5275 0d62fb62162c7ab056e941ef18c5076d ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/base/inputenc.sty" 1738182759 5048 0270515b828149155424600fd2d58ac5 ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/base/size10.clo" 1738182759 8448 5cf247d4bd0c7d5d711bbbdf111fae2e ""
+  "/usr/local/texlive/2025/texmf-dist/tex/latex/booktabs/booktabs.sty" 1579038678 6078 f1cb470c9199e7110a27851508ed7a5c ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/changepage/changepage.sty" 1256071977 4523 a9044e2dc40e764dac60d2acda7ae919 ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/colortbl/colortbl.sty" 1720383029 12726 67708fc852a887b2ba598148f60c3756 ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/enumitem/enumitem.sty" 1738874546 52272 63d293bc0d496619edb57585740861a2 ""
@@ -137,14 +137,14 @@
   "m4-specialty-mead/index.tex" 1788203872.84206 403 158995032194474134af3450a4b47b85 ""
   "m4-specialty-mead/m4-a-braggot.tex" 1788203884.79213 3792 35a498f7c902de83e8b1cbad179e52c2 ""
   "m4-specialty-mead/m4-b-bochet.tex" 1788203895.67265 3330 b998f31a5fe74171657dcdb03fddcb10 ""
-  "m4-specialty-mead/m4-c-polish-mead.tex" 1788203925.41499 6175 196af592fa5fc5915dfd00ba2bcc2f34 ""
+  "m4-specialty-mead/m4-c-polish-mead.tex" 1788208727.51466 6204 e484d9008b40aa16942d5e6a53fc4a57 ""
   "m4-specialty-mead/m4-d-wood-aged-mead.tex" 1788203935.23322 2298 41092c2605c37204ea0d281edf0fb3e4 ""
   "m4-specialty-mead/m4-e-barrel-aged-mead.tex" 1788203944.12303 2787 6c30924b7e5eaf697c71bba3881dc15a ""
   "m4-specialty-mead/m4-f-experimental-mead.tex" 1788203954.52396 2748 826683c79117999c08f5b04db9bc7ba8 ""
-  "main.aux" 1788206824.37018 3379 e89a816b7401ef1b57c8b033560dead5 "pdflatex"
-  "main.out" 1788206824.37124 4321 2eec01da36fe752ede8c6246247a1fdc "pdflatex"
-  "main.tex" 1788204410.73367 1888 399c7b305548a79cfe1be25c0ed626b1 ""
-  "main.toc" 1788206824.37168 1872 260c0021cdd479e99897e36d407a6645 "pdflatex"
+  "main.aux" 1788208828.27222 3379 e89a816b7401ef1b57c8b033560dead5 "pdflatex"
+  "main.out" 1788208828.27279 4321 2eec01da36fe752ede8c6246247a1fdc "pdflatex"
+  "main.tex" 1788208788.73431 1910 3ed2b76cb8c84708c3b3985c6c8ea4e3 ""
+  "main.toc" 1788208828.27303 1872 260c0021cdd479e99897e36d407a6645 "pdflatex"
   (generated)
   "main.aux"
   "main.log"

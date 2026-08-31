@@ -1,0 +1,30 @@
+\babel@toc {brazilian}{}\relax 
+\contentsline {section}{Introduction to the 2026 Mead Guidelines}{2}{section*.3}%
+\contentsline {section}{Introduction to Mead Styles (Categories M1-M4)}{2}{section*.5}%
+\contentsline {subsection}{Aroma and Flavor}{2}{section*.7}%
+\contentsline {subsection}{Appearance}{3}{section*.9}%
+\contentsline {subsection}{Mouthfeel}{3}{section*.11}%
+\contentsline {subsection}{Overall Impression}{3}{section*.13}%
+\contentsline {subsection}{Ingredients}{3}{section*.15}%
+\contentsline {subsection}{Entry Instructions}{3}{section*.17}%
+\contentsline {section}{M1. Traditional Mead}{5}{section*.19}%
+\contentsline {subsection}{M1A. Dry Mead}{5}{section*.21}%
+\contentsline {subsection}{M1B. Semi-Sweet Mead}{5}{section*.23}%
+\contentsline {subsection}{M1C. Sweet Mead}{5}{section*.25}%
+\contentsline {section}{M2. Melomel}{7}{section*.27}%
+\contentsline {subsection}{M2A. Cyser}{7}{section*.29}%
+\contentsline {subsection}{M2B. Pyment}{7}{section*.31}%
+\contentsline {subsection}{M2C. Berry Mead}{8}{section*.33}%
+\contentsline {subsection}{M2D. Stone Fruit Mead}{8}{section*.35}%
+\contentsline {subsection}{M2E. Other Fruit Mead}{9}{section*.37}%
+\contentsline {section}{M3. Spiced Mead}{10}{section*.39}%
+\contentsline {subsection}{M3A. Metheglin}{10}{section*.41}%
+\contentsline {subsection}{M3B. Vegetable Mead}{10}{section*.43}%
+\contentsline {subsection}{M3C. Fruit and Spice Mead}{11}{section*.45}%
+\contentsline {section}{M4. Specialty Mead}{13}{section*.47}%
+\contentsline {subsection}{M4A. Braggot}{13}{section*.49}%
+\contentsline {subsection}{M4B. Bochet}{13}{section*.51}%
+\contentsline {subsection}{M4C. Polish Mead}{14}{section*.53}%
+\contentsline {subsection}{M4D. Wood-Aged Mead}{15}{section*.55}%
+\contentsline {subsection}{M4E. Barrel-Aged Mead}{15}{section*.57}%
+\contentsline {subsection}{M4F. Experimental Mead}{15}{section*.59}%

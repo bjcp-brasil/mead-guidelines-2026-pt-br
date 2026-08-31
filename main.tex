@@ -1,0 +1,74 @@
+\documentclass[a4paper, 9t]{article}
+\usepackage[brazilian]{babel}
+\usepackage{multicol}
+\usepackage{fancyhdr}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{array}
+\usepackage{import}
+\usepackage{xcolor}
+\usepackage[a4paper, top=18mm,
+   bottom=15mm,
+   left=13mm,
+   right=13mm]{geometry}
+\usepackage{parskip}
+\usepackage{anyfontsize}
+\usepackage{hyperref}
+\usepackage[T1]{fontenc}
+\usepackage{array}
+\usepackage{longtable}
+\usepackage{color, colortbl}
+\usepackage{tocloft}
+\usepackage{mathptmx}
+\usepackage{makecell}
+\usepackage{enumitem}
+\usepackage{changepage}
+
+% \usepackage{draftwatermark}
+% \SetWatermarkText{DRAFT}
+% \SetWatermarkScale{1.5}
+
+\fontfamily{georgia}\selectfont
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,
+    urlcolor=blue,
+    }
+\renewcommand*\contentsname{}
+\setlength{\parskip}{2pt}
+\setlength{\columnsep}{1cm}
+\newcommand\divisorLine{{\color{black} \rule{\linewidth}{0.1mm}}{\color{black} \rule{\linewidth}{0.1mm}}}
+
+\definecolor{darkgray}{rgb}{0.5, 0.5, 0.5}
+\definecolor{lightgray}{rgb}{0.75, 0.75, 0.75}
+
+\setlength{\cftbeforetoctitleskip}{-10pt}
+\setlength{\cftaftertoctitleskip}{0pt}
+
+% TODO: title still in English, translate to PT-BR
+\title{BJCP Mead Style Guidelines - 2026 Edition}
+
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0pt}
+% TODO: footer still in English, translate to PT-BR
+\fancyfoot[C]{ \textit{BJCP Mead Style Guidelines - 2026 Edition} }
+\fancyfoot[R]{ \thepage\ }
+
+\begin{document}
+\raggedcolumns
+
+\input{frontpage.tex}
+% TODO: translate "Contents" to "Índice"
+\section*{Contents}
+\renewcommand\contentsname{}
+\tableofcontents
+
+\input{introduction-to-the-2026-mead-guidelines/index.tex}
+\input{introduction-to-mead-styles/index.tex}
+\input{m1-traditional-mead/index.tex}
+\input{m2-melomel/index.tex}
+\input{m3-spiced-mead/index.tex}
+\input{m4-specialty-mead/index.tex}
+
+\end{document}

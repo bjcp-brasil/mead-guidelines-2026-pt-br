@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1788217294.76494 "/Users/hboavent/Projects/personal/mead-guidelines-2026-pt-br/main.tex" "main.pdf" "main" 1788217295.71051 0
+["pdflatex"] 1788217644.39052 "/Users/hboavent/Projects/personal/mead-guidelines-2026-pt-br/main.tex" "main.pdf" "main" 1788217645.15457 0
   "/Users/hboavent/Projects/personal/mead-guidelines-2026-pt-br/main.tex" 1788208788.73431 1910 3ed2b76cb8c84708c3b3985c6c8ea4e3 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -110,7 +110,7 @@
   "introduction-to-mead-styles/appearance.tex" 1788217294.48868 1576 98e501927045c22b833488d27fa543b4 ""
   "introduction-to-mead-styles/aroma-and-flavor.tex" 1788203660.44495 3481 6084219a0624da0f960825a40c64c10e ""
   "introduction-to-mead-styles/entry-instructions.tex" 1788203688.20756 1396 7a0ff05955a87717c84eff05a3188b29 ""
-  "introduction-to-mead-styles/header.tex" 1788213015.68319 2088 0580ba5e4cd21d8ef13905b4ae88070b ""
+  "introduction-to-mead-styles/header.tex" 1788217644.19409 2105 7c816aa1eb6db6e4e084ca9ee2f00445 ""
   "introduction-to-mead-styles/index.tex" 1788203625.10066 430 ef127c02598ea3d27181f4bfaca43d64 ""
   "introduction-to-mead-styles/ingredients.tex" 1788203682.92214 1564 30c1e23f3c64a7b0e21f8d5226284007 ""
   "introduction-to-mead-styles/mouthfeel.tex" 1788203673.28848 1765 456c7b4919c4697d9d9554a3dd6b663b ""
@@ -142,10 +142,10 @@
   "m4-specialty-mead/m4-d-wood-aged-mead.tex" 1788203935.23322 2298 41092c2605c37204ea0d281edf0fb3e4 ""
   "m4-specialty-mead/m4-e-barrel-aged-mead.tex" 1788203944.12303 2787 6c30924b7e5eaf697c71bba3881dc15a ""
   "m4-specialty-mead/m4-f-experimental-mead.tex" 1788203954.52396 2748 826683c79117999c08f5b04db9bc7ba8 ""
-  "main.aux" 1788217295.66612 3388 a0e8d88716abd3f6c9d0364e465cb5b8 "pdflatex"
-  "main.out" 1788217295.66673 4363 46947dc45b2c168ad4a67df19676261c "pdflatex"
+  "main.aux" 1788217645.11285 3388 a0e8d88716abd3f6c9d0364e465cb5b8 "pdflatex"
+  "main.out" 1788217645.11383 4363 46947dc45b2c168ad4a67df19676261c "pdflatex"
   "main.tex" 1788208788.73431 1910 3ed2b76cb8c84708c3b3985c6c8ea4e3 ""
-  "main.toc" 1788217295.66695 1881 fc6f675ba202365d988712eee0c98b3b "pdflatex"
+  "main.toc" 1788217645.11422 1881 fc6f675ba202365d988712eee0c98b3b "pdflatex"
   (generated)
   "main.aux"
   "main.log"

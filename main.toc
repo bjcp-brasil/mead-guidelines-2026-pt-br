@@ -1,12 +1,12 @@
 \babel@toc {brazilian}{}\relax 
 \contentsline {section}{Introduction to the 2026 Mead Guidelines}{2}{section*.3}%
-\contentsline {section}{Introduction to Mead Styles (Categories M1-M4)}{2}{section*.5}%
+\contentsline {section}{Introdução aos Estilos de Hidromel (Categorias M1-M4)}{2}{section*.5}%
 \contentsline {subsection}{Aroma and Flavor}{2}{section*.7}%
-\contentsline {subsection}{Appearance}{3}{section*.9}%
+\contentsline {subsection}{Aparência}{3}{section*.9}%
 \contentsline {subsection}{Mouthfeel}{3}{section*.11}%
 \contentsline {subsection}{Overall Impression}{3}{section*.13}%
 \contentsline {subsection}{Ingredients}{3}{section*.15}%
-\contentsline {subsection}{Entry Instructions}{3}{section*.17}%
+\contentsline {subsection}{Entry Instructions}{4}{section*.17}%
 \contentsline {section}{M1. Traditional Mead}{5}{section*.19}%
 \contentsline {subsection}{M1A. Dry Mead}{5}{section*.21}%
 \contentsline {subsection}{M1B. Semi-Sweet Mead}{5}{section*.23}%

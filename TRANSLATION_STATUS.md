@@ -14,21 +14,21 @@ Status de cada página (arquivo `.tex`), na ordem em que aparecem no guia. Atual
 | [Impressão Geral](introduction-to-mead-styles/overall-impression.tex) | ✅ Traduzido | ⬜ Pendente |
 | [Ingredientes](introduction-to-mead-styles/ingredients.tex) | ✅ Traduzido | ⬜ Pendente |
 | [Instruções para Inscrição](introduction-to-mead-styles/entry-instructions.tex) | ✅ Traduzido | ⬜ Pendente |
-| [M1. Traditional Mead (preâmbulo)](m1-traditional-mead/header.tex) | ⬜ Pendente | ⬜ Pendente |
+| [M1. Traditional Mead (preâmbulo)](m1-traditional-mead/header.tex) | ✅ Traduzido | ⬜ Pendente |
 | [M1A. Dry Mead](m1-traditional-mead/m1-a-dry-mead.tex) | ⬜ Pendente | ⬜ Pendente |
 | [M1B. Semi-Sweet Mead](m1-traditional-mead/m1-b-semi-sweet-mead.tex) | ⬜ Pendente | ⬜ Pendente |
 | [M1C. Sweet Mead](m1-traditional-mead/m1-c-sweet-mead.tex) | ⬜ Pendente | ⬜ Pendente |
-| [M2. Melomel (preâmbulo)](m2-melomel/header.tex) | ⬜ Pendente | ⬜ Pendente |
+| [M2. Melomel (preâmbulo)](m2-melomel/header.tex) | ✅ Traduzido | ⬜ Pendente |
 | [M2A. Cyser](m2-melomel/m2-a-cyser.tex) | ⬜ Pendente | ⬜ Pendente |
 | [M2B. Pyment](m2-melomel/m2-b-pyment.tex) | ⬜ Pendente | ⬜ Pendente |
 | [M2C. Berry Mead](m2-melomel/m2-c-berry-mead.tex) | ⬜ Pendente | ⬜ Pendente |
 | [M2D. Stone Fruit Mead](m2-melomel/m2-d-stone-fruit-mead.tex) | ⬜ Pendente | ⬜ Pendente |
 | [M2E. Other Fruit Mead](m2-melomel/m2-e-other-fruit-mead.tex) | ⬜ Pendente | ⬜ Pendente |
-| [M3. Spiced Mead (preâmbulo)](m3-spiced-mead/header.tex) | ⬜ Pendente | ⬜ Pendente |
+| [M3. Spiced Mead (preâmbulo)](m3-spiced-mead/header.tex) | ✅ Traduzido | ⬜ Pendente |
 | [M3A. Metheglin](m3-spiced-mead/m3-a-metheglin.tex) | ⬜ Pendente | ⬜ Pendente |
 | [M3B. Vegetable Mead](m3-spiced-mead/m3-b-vegetable-mead.tex) | ⬜ Pendente | ⬜ Pendente |
 | [M3C. Fruit and Spice Mead](m3-spiced-mead/m3-c-fruit-and-spice-mead.tex) | ⬜ Pendente | ⬜ Pendente |
-| [M4. Specialty Mead (preâmbulo)](m4-specialty-mead/header.tex) | ⬜ Pendente | ⬜ Pendente |
+| [M4. Specialty Mead (preâmbulo)](m4-specialty-mead/header.tex) | ✅ Traduzido | ⬜ Pendente |
 | [M4A. Braggot](m4-specialty-mead/m4-a-braggot.tex) | ⬜ Pendente | ⬜ Pendente |
 | [M4B. Bochet](m4-specialty-mead/m4-b-bochet.tex) | ⬜ Pendente | ⬜ Pendente |
 | [M4C. Polish Mead](m4-specialty-mead/m4-c-polish-mead.tex) | ⬜ Pendente | ⬜ Pendente |

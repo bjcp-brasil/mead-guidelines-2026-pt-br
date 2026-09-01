@@ -6,14 +6,14 @@ Status de cada página (arquivo `.tex`), na ordem em que aparecem no guia. Atual
 | --- | --- | --- |
 | [Estrutura do documento (título, sumário, rodapé)](main.tex) | ⬜ Pendente | ⬜ Pendente |
 | [Capa (título, créditos, versão)](frontpage.tex) | ⬜ Pendente | ⬜ Pendente |
-| [Introduction to the 2026 Mead Guidelines](introduction-to-the-2026-mead-guidelines/header.tex) | ⬜ Pendente | ⬜ Pendente |
+| [Introdução às Diretrizes de Estilos de Hidromel 2026](introduction-to-the-2026-mead-guidelines/header.tex) | ✅ Traduzido | ⬜ Pendente |
 | [Introdução aos Estilos de Hidromel (preâmbulo)](introduction-to-mead-styles/header.tex) | ✅ Traduzido | ⬜ Pendente |
 | [Aroma e Sabor](introduction-to-mead-styles/aroma-and-flavor.tex) | ✅ Traduzido | ⬜ Pendente |
 | [Aparência](introduction-to-mead-styles/appearance.tex) | ✅ Traduzido | ⬜ Pendente |
-| [Mouthfeel](introduction-to-mead-styles/mouthfeel.tex) | ⬜ Pendente | ⬜ Pendente |
+| [Sensação de Boca](introduction-to-mead-styles/mouthfeel.tex) | ✅ Traduzido | ⬜ Pendente |
 | [Impressão Geral](introduction-to-mead-styles/overall-impression.tex) | ✅ Traduzido | ⬜ Pendente |
-| [Ingredients](introduction-to-mead-styles/ingredients.tex) | ⬜ Pendente | ⬜ Pendente |
-| [Entry Instructions](introduction-to-mead-styles/entry-instructions.tex) | ⬜ Pendente | ⬜ Pendente |
+| [Ingredientes](introduction-to-mead-styles/ingredients.tex) | ✅ Traduzido | ⬜ Pendente |
+| [Instruções para Inscrição](introduction-to-mead-styles/entry-instructions.tex) | ✅ Traduzido | ⬜ Pendente |
 | [M1. Traditional Mead (preâmbulo)](m1-traditional-mead/header.tex) | ⬜ Pendente | ⬜ Pendente |
 | [M1A. Dry Mead](m1-traditional-mead/m1-a-dry-mead.tex) | ⬜ Pendente | ⬜ Pendente |
 | [M1B. Semi-Sweet Mead](m1-traditional-mead/m1-b-semi-sweet-mead.tex) | ⬜ Pendente | ⬜ Pendente |

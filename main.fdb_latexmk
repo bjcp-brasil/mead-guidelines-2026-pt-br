@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1788264111.11064 "/Users/hboavent/Projects/personal/mead-guidelines-2026-pt-br/main.tex" "main.pdf" "main" 1788264111.83683 0
+["pdflatex"] 1788275940.08808 "/Users/hboavent/Projects/personal/mead-guidelines-2026-pt-br/main.tex" "main.pdf" "main" 1788275940.77645 0
   "/Users/hboavent/Projects/personal/mead-guidelines-2026-pt-br/main.tex" 1788208788.73431 1910 3ed2b76cb8c84708c3b3985c6c8ea4e3 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -109,13 +109,13 @@
   "frontpage.tex" 1788206823.453 2164 40b2ebf90adef7fbe663b93d7831d2c6 ""
   "introduction-to-mead-styles/appearance.tex" 1788217294.48868 1576 98e501927045c22b833488d27fa543b4 ""
   "introduction-to-mead-styles/aroma-and-flavor.tex" 1788264110.92354 4279 e93c523bf644b00410f305155a1d18e5 ""
-  "introduction-to-mead-styles/entry-instructions.tex" 1788203688.20756 1396 7a0ff05955a87717c84eff05a3188b29 ""
+  "introduction-to-mead-styles/entry-instructions.tex" 1788274696.91861 1791 5ce96367e987bdb2602bf5ef5681e1ec ""
   "introduction-to-mead-styles/header.tex" 1788217644.19409 2105 7c816aa1eb6db6e4e084ca9ee2f00445 ""
   "introduction-to-mead-styles/index.tex" 1788203625.10066 430 ef127c02598ea3d27181f4bfaca43d64 ""
-  "introduction-to-mead-styles/ingredients.tex" 1788203682.92214 1564 30c1e23f3c64a7b0e21f8d5226284007 ""
-  "introduction-to-mead-styles/mouthfeel.tex" 1788203673.28848 1765 456c7b4919c4697d9d9554a3dd6b663b ""
+  "introduction-to-mead-styles/ingredients.tex" 1788275059.79256 1956 9c39f680f1c9b57899cf69624aaf4fba ""
+  "introduction-to-mead-styles/mouthfeel.tex" 1788275939.21169 2249 8077b3f62192d631543e6949049941a4 ""
   "introduction-to-mead-styles/overall-impression.tex" 1788212578.02031 771 55b18c7408545a80d0bb040e12348749 ""
-  "introduction-to-the-2026-mead-guidelines/header.tex" 1788203613.45282 491 968f2a77a20dd7330c2f9a065226f96c ""
+  "introduction-to-the-2026-mead-guidelines/header.tex" 1788274036.35411 551 20d758f93e93744ccb666664855b5111 ""
   "introduction-to-the-2026-mead-guidelines/index.tex" 1788203615.71061 100 0640326b1648832cf6ffb57cf593d0e2 ""
   "m1-traditional-mead/header.tex" 1788203713.65478 456 2939e7d05ef7c9fa727930cb3af11053 ""
   "m1-traditional-mead/index.tex" 1788203716.48021 265 30bc06760d9e94a4f57ff70b1a8666f7 ""
@@ -142,10 +142,10 @@
   "m4-specialty-mead/m4-d-wood-aged-mead.tex" 1788203935.23322 2298 41092c2605c37204ea0d281edf0fb3e4 ""
   "m4-specialty-mead/m4-e-barrel-aged-mead.tex" 1788203944.12303 2787 6c30924b7e5eaf697c71bba3881dc15a ""
   "m4-specialty-mead/m4-f-experimental-mead.tex" 1788203954.52396 2748 826683c79117999c08f5b04db9bc7ba8 ""
-  "main.aux" 1788264111.79153 3385 e06e763023377fed62b73c52b52085ba "pdflatex"
-  "main.out" 1788264111.79236 4348 865bf46baf69e698f9fa9ed878af356b "pdflatex"
+  "main.aux" 1788275940.73733 3421 953b0c93875f1781aec50ff2e95308f3 "pdflatex"
+  "main.out" 1788275940.73817 4525 87928086bb90a1fd6d60669f1343b2a0 "pdflatex"
   "main.tex" 1788208788.73431 1910 3ed2b76cb8c84708c3b3985c6c8ea4e3 ""
-  "main.toc" 1788264111.79259 1878 cd24e606afe3676a46cf9064e6fb8830 "pdflatex"
+  "main.toc" 1788275940.73838 1914 10b8ed73aa21e1c76cd5b45caf997438 "pdflatex"
   (generated)
   "main.aux"
   "main.log"

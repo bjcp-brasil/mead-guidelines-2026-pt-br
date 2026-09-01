@@ -1,6 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1788275940.08808 "/Users/hboavent/Projects/personal/mead-guidelines-2026-pt-br/main.tex" "main.pdf" "main" 1788275940.77645 0
-  "/Users/hboavent/Projects/personal/mead-guidelines-2026-pt-br/main.tex" 1788208788.73431 1910 3ed2b76cb8c84708c3b3985c6c8ea4e3 ""
+["pdflatex"] 1788277053.74268 "main.tex" "main.pdf" "main" 1788277054.45698 0
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1136768653 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -106,7 +105,7 @@
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1769522011 3345739 812317f6e6912378268afbe6d384c9ca ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
   "assets/bjcp-logo.png" 1788206600.15909 398032 cf4933156312453d9a348e39a9ac8ba4 ""
-  "frontpage.tex" 1788206823.453 2164 40b2ebf90adef7fbe663b93d7831d2c6 ""
+  "frontpage.tex" 1788276987.50766 2107 67f3b497b23b3770eb0cc11d53676387 ""
   "introduction-to-mead-styles/appearance.tex" 1788217294.48868 1576 98e501927045c22b833488d27fa543b4 ""
   "introduction-to-mead-styles/aroma-and-flavor.tex" 1788264110.92354 4279 e93c523bf644b00410f305155a1d18e5 ""
   "introduction-to-mead-styles/entry-instructions.tex" 1788274696.91861 1791 5ce96367e987bdb2602bf5ef5681e1ec ""
@@ -142,10 +141,10 @@
   "m4-specialty-mead/m4-d-wood-aged-mead.tex" 1788203935.23322 2298 41092c2605c37204ea0d281edf0fb3e4 ""
   "m4-specialty-mead/m4-e-barrel-aged-mead.tex" 1788203944.12303 2787 6c30924b7e5eaf697c71bba3881dc15a ""
   "m4-specialty-mead/m4-f-experimental-mead.tex" 1788203954.52396 2748 826683c79117999c08f5b04db9bc7ba8 ""
-  "main.aux" 1788275940.73733 3421 953b0c93875f1781aec50ff2e95308f3 "pdflatex"
-  "main.out" 1788275940.73817 4525 87928086bb90a1fd6d60669f1343b2a0 "pdflatex"
-  "main.tex" 1788208788.73431 1910 3ed2b76cb8c84708c3b3985c6c8ea4e3 ""
-  "main.toc" 1788275940.73838 1914 10b8ed73aa21e1c76cd5b45caf997438 "pdflatex"
+  "main.aux" 1788277054.41918 3421 953b0c93875f1781aec50ff2e95308f3 "pdflatex"
+  "main.out" 1788277054.42 4525 87928086bb90a1fd6d60669f1343b2a0 "pdflatex"
+  "main.tex" 1788277043.11141 1937 f276a3d860ed8641634b30c704581ccd ""
+  "main.toc" 1788277054.42024 1914 10b8ed73aa21e1c76cd5b45caf997438 "pdflatex"
   (generated)
   "main.aux"
   "main.log"

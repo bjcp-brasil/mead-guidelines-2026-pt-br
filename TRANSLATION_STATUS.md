@@ -4,8 +4,8 @@ Status de cada página (arquivo `.tex`), na ordem em que aparecem no guia. Atual
 
 | Página | Tradução | Revisão |
 | --- | --- | --- |
-| [Estrutura do documento (título, sumário, rodapé)](main.tex) | ⬜ Pendente | ⬜ Pendente |
-| [Capa (título, créditos, versão)](frontpage.tex) | ⬜ Pendente | ⬜ Pendente |
+| [Estrutura do documento (título, sumário, rodapé)](main.tex) | ✅ Traduzido | ⬜ Pendente |
+| [Capa (título, créditos, versão)](frontpage.tex) | ✅ Traduzido | ⬜ Pendente |
 | [Introdução às Diretrizes de Estilos de Hidromel 2026](introduction-to-the-2026-mead-guidelines/header.tex) | ✅ Traduzido | ⬜ Pendente |
 | [Introdução aos Estilos de Hidromel (preâmbulo)](introduction-to-mead-styles/header.tex) | ✅ Traduzido | ⬜ Pendente |
 | [Aroma e Sabor](introduction-to-mead-styles/aroma-and-flavor.tex) | ✅ Traduzido | ⬜ Pendente |

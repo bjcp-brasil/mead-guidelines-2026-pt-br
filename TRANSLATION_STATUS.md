@@ -8,7 +8,7 @@ Status de cada página (arquivo `.tex`), na ordem em que aparecem no guia. Atual
 | [Capa (título, créditos, versão)](frontpage.tex) | ⬜ Pendente | ⬜ Pendente |
 | [Introduction to the 2026 Mead Guidelines](introduction-to-the-2026-mead-guidelines/header.tex) | ⬜ Pendente | ⬜ Pendente |
 | [Introdução aos Estilos de Hidromel (preâmbulo)](introduction-to-mead-styles/header.tex) | ✅ Traduzido | ⬜ Pendente |
-| [Aroma and Flavor](introduction-to-mead-styles/aroma-and-flavor.tex) | ⬜ Pendente | ⬜ Pendente |
+| [Aroma e Sabor](introduction-to-mead-styles/aroma-and-flavor.tex) | ✅ Traduzido | ⬜ Pendente |
 | [Aparência](introduction-to-mead-styles/appearance.tex) | ✅ Traduzido | ⬜ Pendente |
 | [Mouthfeel](introduction-to-mead-styles/mouthfeel.tex) | ⬜ Pendente | ⬜ Pendente |
 | [Impressão Geral](introduction-to-mead-styles/overall-impression.tex) | ✅ Traduzido | ⬜ Pendente |

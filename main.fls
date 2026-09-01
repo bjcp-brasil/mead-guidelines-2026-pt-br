@@ -269,11 +269,11 @@ INPUT ./introduction-to-mead-styles/aroma-and-flavor.tex
 INPUT ./introduction-to-mead-styles/aroma-and-flavor.tex
 INPUT introduction-to-mead-styles/aroma-and-flavor.tex
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/times/ptmr8c.tfm
+INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/times/ptmro8t.tfm
+INPUT /usr/local/texlive/2025/texmf-dist/fonts/vf/adobe/times/ptmr8c.vf
 INPUT ./introduction-to-mead-styles/appearance.tex
 INPUT ./introduction-to-mead-styles/appearance.tex
 INPUT introduction-to-mead-styles/appearance.tex
-INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/times/ptmro8t.tfm
-INPUT /usr/local/texlive/2025/texmf-dist/fonts/vf/adobe/times/ptmr8c.vf
 INPUT ./introduction-to-mead-styles/mouthfeel.tex
 INPUT ./introduction-to-mead-styles/mouthfeel.tex
 INPUT introduction-to-mead-styles/mouthfeel.tex

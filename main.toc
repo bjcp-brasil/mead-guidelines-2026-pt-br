@@ -1,7 +1,7 @@
 \babel@toc {brazilian}{}\relax 
 \contentsline {section}{Introduction to the 2026 Mead Guidelines}{2}{section*.3}%
 \contentsline {section}{Introdução aos Estilos de Hidromel (Categorias M1-M4)}{2}{section*.5}%
-\contentsline {subsection}{Aroma and Flavor}{2}{section*.7}%
+\contentsline {subsection}{Aroma e Sabor}{2}{section*.7}%
 \contentsline {subsection}{Aparência}{3}{section*.9}%
 \contentsline {subsection}{Mouthfeel}{3}{section*.11}%
 \contentsline {subsection}{Overall Impression}{3}{section*.13}%

@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1788290702.75362 "main.tex" "main.pdf" "main" 1788290703.51625 0
+["pdflatex"] 1788360759.11287 "main.tex" "main.pdf" "main" 1788360759.84949 0
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1136768653 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -137,14 +137,14 @@
   "m4-specialty-mead/index.tex" 1788203872.84206 403 158995032194474134af3450a4b47b85 ""
   "m4-specialty-mead/m4-a-braggot.tex" 1788290328.19664 3814 b7cf975ca0313ac8d756c9434d4f3c38 ""
   "m4-specialty-mead/m4-b-bochet.tex" 1788290694.10802 3352 d15bf6a51255c313223800ff42dfd611 ""
-  "m4-specialty-mead/m4-c-polish-mead.tex" 1788290698.12119 6223 a13b55c08c539aa1ef2f52913ab36f2e ""
+  "m4-specialty-mead/m4-c-polish-mead.tex" 1788360743.88219 6223 a13b55c08c539aa1ef2f52913ab36f2e ""
   "m4-specialty-mead/m4-d-wood-aged-mead.tex" 1788290328.19662 2320 f35c66f19980c29d8d781be53b0ceef4 ""
   "m4-specialty-mead/m4-e-barrel-aged-mead.tex" 1788290328.19666 2809 9844c3783f5fa00c903ab3e1f5be2ea4 ""
-  "m4-specialty-mead/m4-f-experimental-mead.tex" 1788290579.1865 2771 5b7a1a60f947def6193cb2572ece6b8a ""
-  "main.aux" 1788290703.4763 3421 953b0c93875f1781aec50ff2e95308f3 "pdflatex"
-  "main.out" 1788290703.47715 4525 87928086bb90a1fd6d60669f1343b2a0 "pdflatex"
+  "m4-specialty-mead/m4-f-experimental-mead.tex" 1788360576.81521 3244 9c221cc30818849ef322c17094ce867b ""
+  "main.aux" 1788360759.81057 3421 953b0c93875f1781aec50ff2e95308f3 "pdflatex"
+  "main.out" 1788360759.81113 4525 87928086bb90a1fd6d60669f1343b2a0 "pdflatex"
   "main.tex" 1788277043.11141 1937 f276a3d860ed8641634b30c704581ccd ""
-  "main.toc" 1788290703.47741 1914 10b8ed73aa21e1c76cd5b45caf997438 "pdflatex"
+  "main.toc" 1788360759.81136 1914 10b8ed73aa21e1c76cd5b45caf997438 "pdflatex"
   (generated)
   "main.aux"
   "main.log"

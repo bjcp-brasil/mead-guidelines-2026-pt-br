@@ -4,8 +4,8 @@ Status de cada página (arquivo `.tex`), na ordem em que aparecem no guia. Atual
 
 ## Progresso geral
 
-- **Tradução:** 32,9% (27.762 de 84.358 caracteres)
-- **Revisão:** 0,0% (0 de 84.358 caracteres)
+- **Tradução:** 35,9% (30.415 de 84.703 caracteres)
+- **Revisão:** 0,0% (0 de 84.703 caracteres)
 
 | Página | Tradução | Revisão |
 | --- | --- | --- |
@@ -37,6 +37,6 @@ Status de cada página (arquivo `.tex`), na ordem em que aparecem no guia. Atual
 | [M4A. Braggot](m4-specialty-mead/m4-a-braggot.tex) | ⬜ Pendente | ⬜ Pendente |
 | [M4B. Bochet](m4-specialty-mead/m4-b-bochet.tex) | ⬜ Pendente | ⬜ Pendente |
 | [M4C. Polish Mead](m4-specialty-mead/m4-c-polish-mead.tex) | ⬜ Pendente | ⬜ Pendente |
-| [M4D. Wood-Aged Mead](m4-specialty-mead/m4-d-wood-aged-mead.tex) | ⬜ Pendente | ⬜ Pendente |
+| [M4D. Wood-Aged Mead](m4-specialty-mead/m4-d-wood-aged-mead.tex) | ✅ Traduzido | ⬜ Pendente |
 | [M4E. Barrel-Aged Mead](m4-specialty-mead/m4-e-barrel-aged-mead.tex) | ✅ Traduzido | ⬜ Pendente |
 | [M4F. Experimental Mead](m4-specialty-mead/m4-f-experimental-mead.tex) | ✅ Traduzido | ⬜ Pendente |

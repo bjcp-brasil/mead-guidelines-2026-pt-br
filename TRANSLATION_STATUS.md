@@ -1,6 +1,11 @@
 # Status da tradução
 
-Status de cada página (arquivo `.tex`), na ordem em que aparecem no guia. Atualize esta tabela ao traduzir ou revisar uma página.
+Status de cada página (arquivo `.tex`), na ordem em que aparecem no guia. Atualize esta tabela ao traduzir ou revisar uma página — e recalcule as porcentagens abaixo junto (ponderadas por caracteres, não por número de páginas: `wc -m` de cada arquivo listado na tabela; soma dos arquivos ✅ dividida pela soma de todos).
+
+## Progresso geral
+
+- **Tradução:** 32,9% (27.762 de 84.358 caracteres)
+- **Revisão:** 0,0% (0 de 84.358 caracteres)
 
 | Página | Tradução | Revisão |
 | --- | --- | --- |

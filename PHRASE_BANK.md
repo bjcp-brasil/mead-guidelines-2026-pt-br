@@ -27,7 +27,7 @@ Nenhuma frase repetida com tradução conhecida está traduzida de mais de um je
 | 11x | Good to brilliant clarity. | Boa à brilhante limpidez. | M1A, M1B, M1C, M2B, M2C, M2D, M2E, M3A, M3B, M3C, M4B |
 | 11x | Greater color vibrancy and brightness is more desirable. | Cores vibrantes e brilhosas são mais desejadas. | M1A, M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
 | 11x | Harsh, unpleasant, or excessively sulfury or yeasty fermentation characteristics are undesirable. | Áspero, desagradável, excessivamente sulfuroso ou com características de levedura/autólise não são desejadas. | M1A, M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
-| 10x | Greater clarity is more desirable. | Grande limpidez é mais desejado. | M1A, M1B, M1C, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
+| 10x | Greater clarity is more desirable. | Quanto maior a limpidez, melhor. | M1A, M1B, M1C, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
 | 10x | Balanced fermentation bouquet. | _(a definir)_ | M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
 | 10x | Tannin may make a sweeter mead seem drier. | _(a definir)_ | M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
 | 9x | Body generally increases with sweetness and strength, typically medium-light to full. | _(a definir)_ | M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C, M4B |

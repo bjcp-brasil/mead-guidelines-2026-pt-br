@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1788523124.52543 "main.tex" "main.pdf" "main" 1788523125.27641 0
+["pdflatex"] 1788524699.07132 "main.tex" "main.pdf" "main" 1788524699.80149 0
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1136768653 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -118,7 +118,7 @@
   "introduction-to-the-2026-mead-guidelines/index.tex" 1788203615.71061 100 0640326b1648832cf6ffb57cf593d0e2 ""
   "m1-traditional-mead/header.tex" 1788287853.3785 523 d08cb5ce40b72297fc2d12a5102b3086 ""
   "m1-traditional-mead/index.tex" 1788203716.48021 265 30bc06760d9e94a4f57ff70b1a8666f7 ""
-  "m1-traditional-mead/m1-a-dry-mead.tex" 1788523005.56429 3185 cabf00140948b81b6d594a1ae5fa0a96 ""
+  "m1-traditional-mead/m1-a-dry-mead.tex" 1788524690.79984 3184 8c3a4dcc8463ae063f6ae68f339b4849 ""
   "m1-traditional-mead/m1-b-semi-sweet-mead.tex" 1788290328.20119 2560 afa6bc6f3f18eb787239357730323257 ""
   "m1-traditional-mead/m1-c-sweet-mead.tex" 1788290328.19669 2723 546a94358349f4a8bb702658577c6b09 ""
   "m2-melomel/header.tex" 1788287932.66514 824 e077a919bd164f36d3debfa6f77b0c70 ""
@@ -141,10 +141,10 @@
   "m4-specialty-mead/m4-d-wood-aged-mead.tex" 1788448458.96451 2707 5b0d8e5c2020ec8958c24c23148779bb ""
   "m4-specialty-mead/m4-e-barrel-aged-mead.tex" 1788436960.89181 3222 e83f62fe02be62af66517f25e1c4078e ""
   "m4-specialty-mead/m4-f-experimental-mead.tex" 1788360576.81521 3244 9c221cc30818849ef322c17094ce867b ""
-  "main.aux" 1788523125.23954 3421 38a8f7cd8c48038df26c8975e437ba5e "pdflatex"
-  "main.out" 1788523125.24011 4525 87928086bb90a1fd6d60669f1343b2a0 "pdflatex"
+  "main.aux" 1788524699.76329 3421 38a8f7cd8c48038df26c8975e437ba5e "pdflatex"
+  "main.out" 1788524699.76391 4525 87928086bb90a1fd6d60669f1343b2a0 "pdflatex"
   "main.tex" 1788277043.11141 1937 f276a3d860ed8641634b30c704581ccd ""
-  "main.toc" 1788523125.24039 1914 9b73d3e49c30c98d1a88620e97648356 "pdflatex"
+  "main.toc" 1788524699.76417 1914 9b73d3e49c30c98d1a88620e97648356 "pdflatex"
   (generated)
   "main.aux"
   "main.log"

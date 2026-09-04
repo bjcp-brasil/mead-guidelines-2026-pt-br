@@ -4,8 +4,8 @@ Status de cada página (arquivo `.tex`), na ordem em que aparecem no guia. Atual
 
 ## Progresso geral
 
-- **Tradução:** 35,9% (30.415 de 84.703 caracteres)
-- **Revisão:** 0,0% (0 de 84.703 caracteres)
+- **Tradução:** 39,5% (33.551 de 84.919 caracteres)
+- **Revisão:** 0,0% (0 de 84.919 caracteres)
 
 | Página | Tradução | Revisão |
 | --- | --- | --- |
@@ -20,7 +20,7 @@ Status de cada página (arquivo `.tex`), na ordem em que aparecem no guia. Atual
 | [Ingredientes](introduction-to-mead-styles/ingredients.tex) | ✅ Traduzido | ⬜ Pendente |
 | [Instruções para Inscrição](introduction-to-mead-styles/entry-instructions.tex) | ✅ Traduzido | ⬜ Pendente |
 | [M1. Traditional Mead (preâmbulo)](m1-traditional-mead/header.tex) | ✅ Traduzido | ⬜ Pendente |
-| [M1A. Dry Mead](m1-traditional-mead/m1-a-dry-mead.tex) | ⬜ Pendente | ⬜ Pendente |
+| [M1A. Dry Mead](m1-traditional-mead/m1-a-dry-mead.tex) | ✅ Traduzido | ⬜ Pendente |
 | [M1B. Semi-Sweet Mead](m1-traditional-mead/m1-b-semi-sweet-mead.tex) | ⬜ Pendente | ⬜ Pendente |
 | [M1C. Sweet Mead](m1-traditional-mead/m1-c-sweet-mead.tex) | ⬜ Pendente | ⬜ Pendente |
 | [M2. Melomel (preâmbulo)](m2-melomel/header.tex) | ✅ Traduzido | ⬜ Pendente |

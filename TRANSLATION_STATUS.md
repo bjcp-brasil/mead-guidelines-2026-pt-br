@@ -2,6 +2,8 @@
 
 Status de cada página (arquivo `.tex`), na ordem em que aparecem no guia. Atualize esta tabela ao traduzir ou revisar uma página — e recalcule as porcentagens abaixo junto (ponderadas por caracteres, não por número de páginas: `wc -m` de cada arquivo listado na tabela; soma dos arquivos ✅ dividida pela soma de todos).
 
+Antes de traduzir uma página, confira o [PHRASE_BANK.md](PHRASE_BANK.md) — o guia repete muitas frases entre estilos, e ele lista a tradução já usada pra elas em outras páginas.
+
 ## Progresso geral
 
 - **Tradução:** 39,5% (33.551 de 84.919 caracteres)

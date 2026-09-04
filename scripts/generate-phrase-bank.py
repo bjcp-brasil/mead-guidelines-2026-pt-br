@@ -135,15 +135,19 @@ def build_repeated_sentence_index():
     return {k: v for k, v in locations.items() if len(v) >= MIN_OCCURRENCES}
 
 
-def build_pt_alignment():
+def build_pt_variants():
     """Best-effort EN->PT sentence alignment for already-translated pages.
 
     Aligns by \\textbf{Label}: block, then by sentence position within the
     block. Skips any block where the EN/PT sentence counts don't match,
     since that means the translation merged/split sentences and positional
     alignment would silently pair the wrong sentences.
+
+    Returns key -> list of (pt_sentence, path), keeping every variant seen
+    (not just one) so divergent translations of the same EN sentence can be
+    detected instead of silently overwritten.
     """
-    alignment = {}
+    variants = defaultdict(list)
     for path, _, _ in ORDERED_FILES:
         orig_blocks = get_labeled_blocks(get_original(path))
         curr_blocks = get_labeled_blocks(get_current(path))
@@ -158,11 +162,39 @@ def build_pt_alignment():
                 key = norm_key(o)
                 if key == norm_key(c):
                     continue  # page (or this block) not translated yet
-                alignment[key] = c
-    return alignment
+                variants[key].append((c, path))
+    return variants
 
 
-def render_markdown(repeated, alignment):
+def pick_canonical(variant_list):
+    """Picks the most-used distinct PT wording (ties: first seen) as canonical."""
+    counts = defaultdict(int)
+    first_seen = {}
+    for pt, _ in variant_list:
+        k = norm_key(pt)
+        counts[k] += 1
+        first_seen.setdefault(k, pt)
+    best_key = max(counts, key=lambda k: (counts[k], -list(first_seen).index(k)))
+    return first_seen[best_key]
+
+
+def find_divergences(variants):
+    """key -> {pt_wording: [paths]} for EN sentences translated >1 distinct way."""
+    divergences = {}
+    for key, occ in variants.items():
+        by_wording = defaultdict(list)
+        for pt, path in occ:
+            by_wording[norm_key(pt)].append((pt, path))
+        if len(by_wording) > 1:
+            divergences[key] = {
+                group[0][0]: [p for _, p in group]
+                for group in by_wording.values()
+            }
+    return divergences
+
+
+def render_markdown(repeated, variants, divergences):
+    alignment = {k: pick_canonical(v) for k, v in variants.items()}
     items = sorted(repeated.items(), key=lambda kv: -len(kv[1]))
     matched = sum(1 for k in repeated if k in alignment)
 
@@ -209,6 +241,35 @@ def render_markdown(repeated, alignment):
         "`python3 scripts/generate-phrase-bank.py > PHRASE_BANK.md`."
     )
     lines.append("")
+
+    if divergences:
+        lines.append(
+            f"## ⚠️ {len(divergences)} divergência(s) encontrada(s)"
+        )
+        lines.append("")
+        lines.append(
+            "A mesma frase em inglês foi traduzida de mais de um jeito em páginas "
+            "diferentes. Escolha uma redação e corrija as demais páginas pra "
+            "convergir."
+        )
+        lines.append("")
+        for key, by_wording in divergences.items():
+            en_example = repeated[key][0][1] if key in repeated else key
+            lines.append(f"- EN: {en_example}")
+            for pt_text, paths in by_wording.items():
+                pages = ", ".join(sorted({CODE_BY_PATH[p] for p in paths}, key=lambda c: (len(c), c)))
+                lines.append(f"  - \"{pt_text}\" — {pages}")
+        lines.append("")
+    else:
+        lines.append(
+            "## ✅ Nenhuma divergência encontrada\n\n"
+            "Nenhuma frase repetida com tradução conhecida está traduzida de mais "
+            "de um jeito nas páginas já traduzidas — mas isso vale só pro que já "
+            "foi traduzido (e só pra correspondência exata; paráfrases da mesma "
+            "ideia não são pegas)."
+        )
+        lines.append("")
+
     lines.append("| Ocorrências | Frase original (EN) | Tradução canônica (PT-BR) | Páginas |")
     lines.append("| --- | --- | --- | --- |")
     for k, locs in items:
@@ -216,7 +277,12 @@ def render_markdown(repeated, alignment):
         pt = alignment.get(k, "").replace("|", "\\|")
         pages = sorted({CODE_BY_PATH[p] for p, _ in locs}, key=lambda c: (len(c), c))
         pages_str = ", ".join(pages)
-        pt_cell = pt if pt else "_(a definir)_"
+        if k in divergences:
+            pt_cell = "⚠️ " + pt
+        elif pt:
+            pt_cell = pt
+        else:
+            pt_cell = "_(a definir)_"
         lines.append(f"| {len(locs)}x | {en_example} | {pt_cell} | {pages_str} |")
     lines.append("")
     return "\n".join(lines)
@@ -224,8 +290,9 @@ def render_markdown(repeated, alignment):
 
 def main():
     repeated = build_repeated_sentence_index()
-    alignment = build_pt_alignment()
-    sys.stdout.write(render_markdown(repeated, alignment))
+    variants = build_pt_variants()
+    divergences = find_divergences(variants)
+    sys.stdout.write(render_markdown(repeated, variants, divergences))
 
 
 if __name__ == "__main__":

@@ -12,6 +12,10 @@ Gerado por [`scripts/generate-phrase-bank.py`](scripts/generate-phrase-bank.py) 
 - Se aparece na lista **sem** tradução canônica (coluna vazia), essa é a primeira vez que a frase está sendo traduzida — escolha a redação e, depois, rode o script de novo pra ela entrar como canônica pras próximas ocorrências.
 - Depois de traduzir/revisar uma página, regenere este arquivo: `python3 scripts/generate-phrase-bank.py > PHRASE_BANK.md`.
 
+## ✅ Nenhuma divergência encontrada
+
+Nenhuma frase repetida com tradução conhecida está traduzida de mais de um jeito nas páginas já traduzidas — mas isso vale só pro que já foi traduzido (e só pra correspondência exata; paráfrases da mesma ideia não são pegas).
+
 | Ocorrências | Frase original (EN) | Tradução canônica (PT-BR) | Páginas |
 | --- | --- | --- | --- |
 | 13x | Entrants must specify sweetness, carbonation, and strength levels. | Os participantes devem especificar os níveis de dulçor, carbonatação e teor alcoólico. | M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C, M4A, M4B, M4D, M4E, M4F |

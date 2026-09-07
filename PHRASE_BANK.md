@@ -4,7 +4,7 @@ O guia original em inglês repete muitas frases padronizadas entre estilos (ex.:
 
 Gerado por [`scripts/generate-phrase-bank.py`](scripts/generate-phrase-bank.py) a partir do texto original em inglês (commit `a1f9111`, antes de qualquer tradução). Considera frases com 2+ ocorrências idênticas (comparação exata, após normalizar espaços/aspas/travessão e remover marcação LaTeX) — variações de redação da mesma ideia não são detectadas automaticamente.
 
-**48 frases repetidas** encontradas, cobrindo 276 ocorrências no total. **14/48** já têm uma tradução canônica sugerida, extraída das páginas já traduzidas.
+**48 frases repetidas** encontradas, cobrindo 276 ocorrências no total. **16/48** já têm uma tradução canônica sugerida, extraída das páginas já traduzidas.
 
 ## Como usar
 
@@ -28,8 +28,8 @@ Nenhuma frase repetida com tradução conhecida está traduzida de mais de um je
 | 11x | Greater color vibrancy and brightness is more desirable. | Cores vibrantes e brilhosas são mais desejadas. | M1A, M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
 | 11x | Harsh, unpleasant, or excessively sulfury or yeasty fermentation characteristics are undesirable. | Áspero, desagradável, excessivamente sulfuroso ou com características de levedura/autólise não são desejadas. | M1A, M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
 | 10x | Greater clarity is more desirable. | Deseja-se uma maior limpidez. | M1A, M1B, M1C, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
-| 10x | Balanced fermentation bouquet. | _(a definir)_ | M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
-| 10x | Tannin may make a sweeter mead seem drier. | _(a definir)_ | M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
+| 10x | Balanced fermentation bouquet. | Aromas de fermentação equilibrados. | M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
+| 10x | Tannin may make a sweeter mead seem drier. | Taninos podem tornar um hidromel suave parecer seco. | M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
 | 9x | Body generally increases with sweetness and strength, typically medium-light to full. | _(a definir)_ | M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C, M4B |
 | 9x | Perceived alcohol by declared strength, ranging from none to noticeable and warming. | _(a definir)_ | M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C, M4B |
 | 8x | The honey character can be subtle to strong, depending on strength and sweetness, and can express the character of flower nectar, reflective of any declared honey varietals. | _(a definir)_ | M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |

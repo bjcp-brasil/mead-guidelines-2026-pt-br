@@ -6,8 +6,8 @@ Antes de traduzir uma página, confira o [PHRASE_BANK.md](PHRASE_BANK.md) — o 
 
 ## Progresso geral
 
-- **Tradução:** 42,5% (36.153 de 84.970 caracteres)
-- **Revisão:** 0,0% (0 de 84.970 caracteres)
+- **Tradução:** 50,3% (43.238 de 85.878 caracteres)
+- **Revisão:** 0,0% (0 de 85.878 caracteres)
 
 | Página | Tradução | Revisão |
 | --- | --- | --- |
@@ -38,7 +38,7 @@ Antes de traduzir uma página, confira o [PHRASE_BANK.md](PHRASE_BANK.md) — o 
 | [M4. Specialty Mead (preâmbulo)](m4-specialty-mead/header.tex) | ✅ Traduzido | ⬜ Pendente |
 | [M4A. Braggot](m4-specialty-mead/m4-a-braggot.tex) | ⬜ Pendente | ⬜ Pendente |
 | [M4B. Bochet](m4-specialty-mead/m4-b-bochet.tex) | ⬜ Pendente | ⬜ Pendente |
-| [M4C. Polish Mead](m4-specialty-mead/m4-c-polish-mead.tex) | ⬜ Pendente | ⬜ Pendente |
+| [M4C. Polish Mead](m4-specialty-mead/m4-c-polish-mead.tex) | ✅ Traduzido | ⬜ Pendente |
 | [M4D. Wood-Aged Mead](m4-specialty-mead/m4-d-wood-aged-mead.tex) | ✅ Traduzido | ⬜ Pendente |
 | [M4E. Barrel-Aged Mead](m4-specialty-mead/m4-e-barrel-aged-mead.tex) | ✅ Traduzido | ⬜ Pendente |
 | [M4F. Experimental Mead](m4-specialty-mead/m4-f-experimental-mead.tex) | ✅ Traduzido | ⬜ Pendente |

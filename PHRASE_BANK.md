@@ -24,7 +24,7 @@ Nenhuma frase repetida com tradução conhecida está traduzida de mais de um je
 | 12x | Honey varieties may be declared. | Variedades de mel podem ser declaradas. | M1A, M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C, M4C |
 | 11x | Stronger meads may have a light, spicy alcohol note. | Hidroméis mais fortes podem possuir leves notas condimentadas oriundas do álcool. | M1A, M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
 | 11x | Carbonated meads tend to express more aroma. | Hidroméis carbonatados tendem a expressar mais aromas. | M1A, M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
-| 11x | Good to brilliant clarity. | Boa à brilhante limpidez. | M1A, M1B, M1C, M2B, M2C, M2D, M2E, M3A, M3B, M3C, M4B |
+| 11x | Good to brilliant clarity. | De limpida à brilhante. | M1A, M1B, M1C, M2B, M2C, M2D, M2E, M3A, M3B, M3C, M4B |
 | 11x | Greater color vibrancy and brightness is more desirable. | Cores vibrantes e brilhosas são mais desejadas. | M1A, M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
 | 11x | Harsh, unpleasant, or excessively sulfury or yeasty fermentation characteristics are undesirable. | Áspero, desagradável, excessivamente sulfuroso ou com características de levedura/autólise não são desejadas. | M1A, M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
 | 10x | Greater clarity is more desirable. | Deseja-se uma maior limpidez. | M1A, M1B, M1C, M2B, M2C, M2D, M2E, M3A, M3B, M3C |

@@ -29,7 +29,7 @@ Nenhuma frase repetida com tradução conhecida está traduzida de mais de um je
 | 11x | Harsh, unpleasant, or excessively sulfury or yeasty fermentation characteristics are undesirable. | Áspero, desagradável, excessivamente sulfuroso ou com características de levedura/autólise não são desejadas. | M1A, M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
 | 10x | Greater clarity is more desirable. | Deseja-se uma maior limpidez. | M1A, M1B, M1C, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
 | 10x | Balanced fermentation bouquet. | Aromas de fermentação equilibrados. | M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
-| 10x | Tannin may make a sweeter mead seem drier. | Taninos podem tornar um hidromel suave parecer seco. | M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
+| 10x | Tannin may make a sweeter mead seem drier. | Taninos podem fazer um hidromel suave parecer seco. | M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
 | 9x | Body generally increases with sweetness and strength, typically medium-light to full. | O corpo geralmente aumenta com o dulçor e o teor alcoólico, tipicamente de médio-leve a cheio. | M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C, M4B |
 | 9x | Perceived alcohol by declared strength, ranging from none to noticeable and warming. | A percepção de álcool acompanha o teor alcoólico declarado, variando de ausente a perceptível e com sensação de aquecimento. | M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C, M4B |
 | 8x | The honey character can be subtle to strong, depending on strength and sweetness, and can express the character of flower nectar, reflective of any declared honey varietals. | _(a definir)_ | M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
@@ -46,8 +46,8 @@ Nenhuma frase repetida com tradução conhecida está traduzida de mais de um je
 | 4x | Fruited meads with other non-fruit ingredients should likely be entered as M4F Experimental Mead. | _(a definir)_ | M2B, M2C, M2D, M2E |
 | 4x | Color as derived from the variety of fruit and honey used. | _(a definir)_ | M2C, M2D, M2E, M3C |
 | 3x | Color as derived from declared honey varieties, but often pale straw to gold. | A cor é oriunda dos méis varietais declarados, mas geralmente de palha pálido à dourado. | M1A, M1B, M1C |
-| 3x | Flavors similar to fermented honey aromatics in the aroma. | Sabores similares a aromas de mel fermentado no aroma. | M1A, M1B, M1C |
-| 3x | Stronger meads may have a fuller body and warmth. | Hidroméis mais fortes podem possuir corpo mais cheio e ser percebidos mais quentes. | M1A, M1B, M1C |
+| 3x | Flavors similar to fermented honey aromatics in the aroma. | Sabores semelhantes às características aromáticas de mel fermentado. | M1A, M1B, M1C |
+| 3x | Stronger meads may have a fuller body and warmth. | Hidroméis mais fortes podem apresentar corpo mais cheio e maior aquecimento alcoólico. | M1A, M1B, M1C |
 | 3x | Varietal honeys are expected to exhibit distinctive characteristics associated from those declared varieties. | _(a definir)_ | M1A, M1B, M1C |
 | 3x | Category M1 describes the base character expected from dry, semi-sweet, and sweet meads. | _(a definir)_ | M2, M3, M4 |
 | 3x | Like a M1 Traditional Mead with a noticeable fruit character. | _(a definir)_ | M2C, M2D, M2E |

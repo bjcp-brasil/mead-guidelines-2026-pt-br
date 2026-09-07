@@ -4,7 +4,7 @@ O guia original em inglês repete muitas frases padronizadas entre estilos (ex.:
 
 Gerado por [`scripts/generate-phrase-bank.py`](scripts/generate-phrase-bank.py) a partir do texto original em inglês (commit `a1f9111`, antes de qualquer tradução). Considera frases com 2+ ocorrências idênticas (comparação exata, após normalizar espaços/aspas/travessão e remover marcação LaTeX) — variações de redação da mesma ideia não são detectadas automaticamente.
 
-**48 frases repetidas** encontradas, cobrindo 276 ocorrências no total. **16/48** já têm uma tradução canônica sugerida, extraída das páginas já traduzidas.
+**48 frases repetidas** encontradas, cobrindo 276 ocorrências no total. **18/48** já têm uma tradução canônica sugerida, extraída das páginas já traduzidas.
 
 ## Como usar
 
@@ -30,8 +30,8 @@ Nenhuma frase repetida com tradução conhecida está traduzida de mais de um je
 | 10x | Greater clarity is more desirable. | Deseja-se uma maior limpidez. | M1A, M1B, M1C, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
 | 10x | Balanced fermentation bouquet. | Aromas de fermentação equilibrados. | M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
 | 10x | Tannin may make a sweeter mead seem drier. | Taninos podem tornar um hidromel suave parecer seco. | M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
-| 9x | Body generally increases with sweetness and strength, typically medium-light to full. | _(a definir)_ | M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C, M4B |
-| 9x | Perceived alcohol by declared strength, ranging from none to noticeable and warming. | _(a definir)_ | M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C, M4B |
+| 9x | Body generally increases with sweetness and strength, typically medium-light to full. | O corpo geralmente aumenta com o dulçor e o teor alcoólico, tipicamente de médio-leve a cheio. | M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C, M4B |
+| 9x | Perceived alcohol by declared strength, ranging from none to noticeable and warming. | A percepção de álcool acompanha o teor alcoólico declarado, variando de ausente a perceptível e com sensação de aquecimento. | M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C, M4B |
 | 8x | The honey character can be subtle to strong, depending on strength and sweetness, and can express the character of flower nectar, reflective of any declared honey varietals. | _(a definir)_ | M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
 | 8x | Residual sweetness and finish per the declared sweetness level. | _(a definir)_ | M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
 | 8x | Acidity should be balanced, soft, or bright but not sharp. | _(a definir)_ | M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |

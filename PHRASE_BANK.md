@@ -4,7 +4,7 @@ O guia original em inglês repete muitas frases padronizadas entre estilos (ex.:
 
 Gerado por [`scripts/generate-phrase-bank.py`](scripts/generate-phrase-bank.py) a partir do texto original em inglês (commit `a1f9111`, antes de qualquer tradução). Considera frases com 2+ ocorrências idênticas (comparação exata, após normalizar espaços/aspas/travessão e remover marcação LaTeX) — variações de redação da mesma ideia não são detectadas automaticamente.
 
-**48 frases repetidas** encontradas, cobrindo 276 ocorrências no total. **18/48** já têm uma tradução canônica sugerida, extraída das páginas já traduzidas.
+**49 frases repetidas** encontradas, cobrindo 279 ocorrências no total. **20/49** já têm uma tradução canônica sugerida, extraída das páginas já traduzidas.
 
 ## Como usar
 
@@ -48,7 +48,8 @@ Nenhuma frase repetida com tradução conhecida está traduzida de mais de um je
 | 3x | Color as derived from declared honey varieties, but often pale straw to gold. | A cor é oriunda dos méis varietais declarados, mas geralmente de palha pálido à dourado. | M1A, M1B, M1C |
 | 3x | Flavors similar to fermented honey aromatics in the aroma. | Sabores semelhantes às características aromáticas de mel fermentado. | M1A, M1B, M1C |
 | 3x | Stronger meads may have a fuller body and warmth. | Hidroméis mais fortes podem apresentar corpo mais cheio e maior aquecimento alcoólico. | M1A, M1B, M1C |
-| 3x | Varietal honeys are expected to exhibit distinctive characteristics associated from those declared varieties. | _(a definir)_ | M1A, M1B, M1C |
+| 3x | Honey of any source. | Mel de qualquer origem. | M1A, M1B, M1C |
+| 3x | Varietal honeys are expected to exhibit distinctive characteristics associated from those declared varieties. | É esperado que méis varietais apresentem características específicas associadas às variedades declaradas. | M1A, M1B, M1C |
 | 3x | Category M1 describes the base character expected from dry, semi-sweet, and sweet meads. | _(a definir)_ | M2, M3, M4 |
 | 3x | Like a M1 Traditional Mead with a noticeable fruit character. | _(a definir)_ | M2C, M2D, M2E |
 | 3x | The fruit-derived aromatics should complement and enhance the base mead, not overwhelm it. | _(a definir)_ | M2C, M2D, M2E |

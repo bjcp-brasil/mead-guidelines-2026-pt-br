@@ -108,7 +108,7 @@ def split_sentences(s):
     # drop fragments that are just a bare label (e.g. "Entry Instructions:")
     return [
         p for p in out
-        if len(p) > MIN_SENTENCE_LEN
+        if len(p) >= MIN_SENTENCE_LEN
         and not re.fullmatch(r"[A-ZÁÀÂÃÉÍÓÔÕÚÇa-záàâãéíóôõúç ,]+:?", p)
     ]
 

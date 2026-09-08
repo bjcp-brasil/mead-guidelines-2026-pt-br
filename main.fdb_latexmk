@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1788823541.08824 "main.tex" "main.pdf" "main" 1788823541.77407 0
+["pdflatex"] 1788888861.15036 "main.tex" "main.pdf" "main" 1788888861.87084 0
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1136768653 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -139,16 +139,16 @@
   "m3-spiced-mead/m3-c-fruit-and-spice-mead.tex" 1788290545.31647 5023 3e108c6eeb497fcefec8dc42e32a9955 ""
   "m4-specialty-mead/header.tex" 1788288131.37221 503 c40dce4d7c2e4de39b92e15f12d15886 ""
   "m4-specialty-mead/index.tex" 1788203872.84206 403 158995032194474134af3450a4b47b85 ""
-  "m4-specialty-mead/m4-a-braggot.tex" 1788290328.19664 3814 b7cf975ca0313ac8d756c9434d4f3c38 ""
+  "m4-specialty-mead/m4-a-braggot.tex" 1788888852.3627 4594 43c82772f4da2343e1cba3a1618b3eae ""
   "m4-specialty-mead/m4-b-bochet.tex" 1788823145.78958 3817 07af323826d1da337841af6398c382cd ""
   "m4-specialty-mead/m4-c-polish-mead.tex" 1788784353.32103 7368 b44278b8f75dc1d1988239a713538b15 ""
   "m4-specialty-mead/m4-d-wood-aged-mead.tex" 1788448458.96451 2707 5b0d8e5c2020ec8958c24c23148779bb ""
   "m4-specialty-mead/m4-e-barrel-aged-mead.tex" 1788436960.89181 3222 e83f62fe02be62af66517f25e1c4078e ""
   "m4-specialty-mead/m4-f-experimental-mead.tex" 1788360576.81521 3244 9c221cc30818849ef322c17094ce867b ""
-  "main.aux" 1788823541.73606 3421 65c8fe184c5e70e281740e512463df35 "pdflatex"
-  "main.out" 1788823541.73689 4525 87928086bb90a1fd6d60669f1343b2a0 "pdflatex"
+  "main.aux" 1788888861.83277 3421 65c8fe184c5e70e281740e512463df35 "pdflatex"
+  "main.out" 1788888861.83362 4525 87928086bb90a1fd6d60669f1343b2a0 "pdflatex"
   "main.tex" 1788277043.11141 1937 f276a3d860ed8641634b30c704581ccd ""
-  "main.toc" 1788823541.73717 1914 bc54abafa8a40305666d685465d926d0 "pdflatex"
+  "main.toc" 1788888861.83387 1914 bc54abafa8a40305666d685465d926d0 "pdflatex"
   (generated)
   "main.aux"
   "main.log"

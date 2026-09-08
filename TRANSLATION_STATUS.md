@@ -6,8 +6,8 @@ Antes de traduzir uma página, confira o [PHRASE_BANK.md](PHRASE_BANK.md) — o 
 
 ## Progresso geral
 
-- **Tradução:** 54,5% (46.988 de 86.285 caracteres)
-- **Revisão:** 0,0% (0 de 86.285 caracteres)
+- **Tradução:** 59,2% (51.503 de 86.996 caracteres)
+- **Revisão:** 0,0% (0 de 86.996 caracteres)
 
 | Página | Tradução | Revisão |
 | --- | --- | --- |
@@ -36,7 +36,7 @@ Antes de traduzir uma página, confira o [PHRASE_BANK.md](PHRASE_BANK.md) — o 
 | [M3B. Vegetable Mead](m3-spiced-mead/m3-b-vegetable-mead.tex) | ⬜ Pendente | ⬜ Pendente |
 | [M3C. Fruit and Spice Mead](m3-spiced-mead/m3-c-fruit-and-spice-mead.tex) | ⬜ Pendente | ⬜ Pendente |
 | [M4. Specialty Mead (preâmbulo)](m4-specialty-mead/header.tex) | ✅ Traduzido | ⬜ Pendente |
-| [M4A. Braggot](m4-specialty-mead/m4-a-braggot.tex) | ⬜ Pendente | ⬜ Pendente |
+| [M4A. Braggot](m4-specialty-mead/m4-a-braggot.tex) | ✅ Traduzido | ⬜ Pendente |
 | [M4B. Bochet](m4-specialty-mead/m4-b-bochet.tex) | ✅ Traduzido | ⬜ Pendente |
 | [M4C. Polish Mead](m4-specialty-mead/m4-c-polish-mead.tex) | ✅ Traduzido | ⬜ Pendente |
 | [M4D. Wood-Aged Mead](m4-specialty-mead/m4-d-wood-aged-mead.tex) | ✅ Traduzido | ⬜ Pendente |

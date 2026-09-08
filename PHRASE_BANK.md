@@ -28,7 +28,7 @@ Nenhuma frase repetida com tradução conhecida está traduzida de mais de um je
 | 11x | Greater color vibrancy and brightness is more desirable. | Cores mais vivas e brilhantes são mais desejadas. | M1A, M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
 | 11x | Harsh, unpleasant, or excessively sulfury or yeasty fermentation characteristics are undesirable. | Áspero, desagradável, excessivamente sulfuroso ou com características de levedura/autólise não são desejadas. | M1A, M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
 | 10x | Greater clarity is more desirable. | Deseja-se uma maior limpidez. | M1A, M1B, M1C, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
-| 10x | Balanced fermentation bouquet. | Aromas de fermentação equilibrados. | M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
+| 10x | Balanced fermentation bouquet. | Buquê de fermentação equilibrado. | M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
 | 10x | Tannin may make a sweeter mead seem drier. | Taninos podem fazer um hidromel suave parecer seco. | M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
 | 9x | Body generally increases with sweetness and strength, typically medium-light to full. | O corpo geralmente aumenta com o dulçor e o teor alcoólico, tipicamente de médio-leve a cheio. | M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C, M4B |
 | 9x | Perceived alcohol by declared strength, ranging from none to noticeable and warming. | A percepção de álcool acompanha o teor alcoólico declarado, variando de ausente a perceptível e com sensação de aquecimento. | M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C, M4B |

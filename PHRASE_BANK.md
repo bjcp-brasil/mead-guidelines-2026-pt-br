@@ -18,20 +18,20 @@ Nenhuma frase repetida com tradução conhecida está traduzida de mais de um je
 
 | Ocorrências | Frase original (EN) | Tradução canônica (PT-BR) | Páginas |
 | --- | --- | --- | --- |
-| 13x | Entrants must specify sweetness, carbonation, and strength levels. | Os participantes devem especificar os níveis de dulçor, carbonatação e força alcoólica. | M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C, M4A, M4B, M4D, M4E, M4F |
+| 13x | Entrants must specify sweetness, carbonation, and strength levels. | Os participantes devem especificar os níveis de dulçor, carbonatação e teor alcoólico. | M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C, M4A, M4B, M4D, M4E, M4F |
 | 12x | Any bubbles, foam, head, or effervescence is based on the declared carbonation level. | Algumas bolhas, espuma ou efervescência são baseados no nível de carbonatação declarado. | M1A, M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C, M4B |
-| 12x | Carbonation as indicated by declared level, from still to sparkling. | A carbonatação segue o nível declarado, podendo ir de tranquilo a espumante. | M1A, M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C, M4B |
-| 12x | Honey varieties may be declared. | As variedades de mel podem ser declaradas. | M1A, M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C, M4C |
+| 12x | Carbonation as indicated by declared level, from still to sparkling. | A carbonatação é indicada pelo nível declarado, de tranquilo a espumante. | M1A, M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C, M4B |
+| 12x | Honey varieties may be declared. | Variedades de mel podem ser declaradas. | M1A, M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C, M4C |
 | 11x | Stronger meads may have a light, spicy alcohol note. | Hidroméis mais fortes podem possuir leves notas condimentadas oriundas do álcool. | M1A, M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
 | 11x | Carbonated meads tend to express more aroma. | Hidroméis carbonatados tendem a expressar mais aromas. | M1A, M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
 | 11x | Good to brilliant clarity. | De limpida à brilhante. | M1A, M1B, M1C, M2B, M2C, M2D, M2E, M3A, M3B, M3C, M4B |
 | 11x | Greater color vibrancy and brightness is more desirable. | Cores mais vivas e brilhantes são mais desejadas. | M1A, M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
-| 11x | Harsh, unpleasant, or excessively sulfury or yeasty fermentation characteristics are undesirable. | Características de fermentação ásperas, desagradáveis, excessivamente sulfurosas ou de levedura são indesejáveis. | M1A, M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
+| 11x | Harsh, unpleasant, or excessively sulfury or yeasty fermentation characteristics are undesirable. | Áspero, desagradável, excessivamente sulfuroso ou com características de levedura/autólise não são desejadas. | M1A, M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
 | 10x | Greater clarity is more desirable. | Deseja-se uma maior limpidez. | M1A, M1B, M1C, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
 | 10x | Balanced fermentation bouquet. | Buquê de fermentação equilibrado. | M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
-| 10x | Tannin may make a sweeter mead seem drier. | Os taninos podem fazer um hidromel mais doce parecer mais seco. | M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
-| 9x | Body generally increases with sweetness and strength, typically medium-light to full. | O corpo tende a aumentar com o dulçor e a força alcoólica, variando geralmente de médio-baixo a alto. | M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C, M4B |
-| 9x | Perceived alcohol by declared strength, ranging from none to noticeable and warming. | A percepção alcoólica acompanha a força declarada, podendo ser desde ausente até perceptível e com sensação de aquecimento. | M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C, M4B |
+| 10x | Tannin may make a sweeter mead seem drier. | Taninos podem fazer um hidromel suave parecer seco. | M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
+| 9x | Body generally increases with sweetness and strength, typically medium-light to full. | O corpo geralmente aumenta com o dulçor e o teor alcoólico, tipicamente de médio-leve a cheio. | M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C, M4B |
+| 9x | Perceived alcohol by declared strength, ranging from none to noticeable and warming. | A percepção de álcool acompanha o teor alcoólico declarado, variando de ausente a perceptível e com sensação de aquecimento. | M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C, M4B |
 | 8x | The honey character can be subtle to strong, depending on strength and sweetness, and can express the character of flower nectar, reflective of any declared honey varietals. | O caráter de mel pode variar de sutil a intenso, dependendo da potência e dulçor e pode expressar características florais do néctar, refletindo quaisquer variedades de mel declaradas. | M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
 | 8x | Residual sweetness and finish per the declared sweetness level. | O dulçor residual e o final de boca devem corresponder ao nível de dulçor declarado. | M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
 | 8x | Acidity should be balanced, soft, or bright but not sharp. | A acidez deve ser equilibrada, suave ou vibrante, mas não agressiva. | M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |

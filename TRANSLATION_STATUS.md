@@ -6,8 +6,8 @@ Antes de traduzir uma página, confira o [PHRASE_BANK.md](PHRASE_BANK.md) — o 
 
 ## Progresso geral
 
-- **Tradução:** 77,0% (68.355 de 88.821 caracteres)
-- **Revisão:** 0,0% (0 de 88.821 caracteres)
+- **Tradução:** 81,5% (72.797 de 89.310 caracteres)
+- **Revisão:** 0,0% (0 de 89.310 caracteres)
 
 | Página | Tradução | Revisão |
 | --- | --- | --- |
@@ -30,7 +30,7 @@ Antes de traduzir uma página, confira o [PHRASE_BANK.md](PHRASE_BANK.md) — o 
 | [M2B. Pyment](m2-melomel/m2-b-pyment.tex) | ✅ Traduzido | ⬜ Pendente |
 | [M2C. Berry Mead](m2-melomel/m2-c-berry-mead.tex) | ✅ Traduzido | ⬜ Pendente |
 | [M2D. Stone Fruit Mead](m2-melomel/m2-d-stone-fruit-mead.tex) | ✅ Traduzido | ⬜ Pendente |
-| [M2E. Other Fruit Mead](m2-melomel/m2-e-other-fruit-mead.tex) | ⬜ Pendente | ⬜ Pendente |
+| [M2E. Other Fruit Mead](m2-melomel/m2-e-other-fruit-mead.tex) | ✅ Traduzido | ⬜ Pendente |
 | [M3. Spiced Mead (preâmbulo)](m3-spiced-mead/header.tex) | ✅ Traduzido | ⬜ Pendente |
 | [M3A. Metheglin](m3-spiced-mead/m3-a-metheglin.tex) | ⬜ Pendente | ⬜ Pendente |
 | [M3B. Vegetable Mead](m3-spiced-mead/m3-b-vegetable-mead.tex) | ⬜ Pendente | ⬜ Pendente |

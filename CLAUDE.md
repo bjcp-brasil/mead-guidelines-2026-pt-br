@@ -117,6 +117,18 @@ canônica em PT-BR já usada (quando já existe alguma página traduzida com ela
   `\textbf{Label}:` — é só um ou mais parágrafos `\textit{...}` soltos. O script
   trata isso com um extrator separado (`extract_textit_blocks`/`get_blocks`),
   já que esses arquivos não têm nenhum campo rotulado pra alinhar por label.
+- **Quando uma página nova/PR chega com redação diferente da canônica já
+  estabelecida (nos overrides ou em outra página real), o canônico já
+  decidido é que manda — corrija a página nova pra bater com ele, não trate
+  como uma opção equivalente pra perguntar ao usuário de novo.** Só pergunte
+  se o próprio usuário disser que quer mudar o canônico.
+- **Escopo estrito**: ao corrigir uma divergência ou aplicar o canônico,
+  mexer *só* na frase exata listada no bank/override — nunca aproveitar pra
+  fazer uma varredura mais ampla de termo (ex.: trocar toda ocorrência de
+  "teor alcoólico" por "força alcoólica" no resto do texto da página só
+  porque apareceu numa frase do bank). Se notar um padrão de terminologia
+  mais amplo que poderia valer a pena, mencionar pro usuário, mas não agir
+  sem pedido explícito.
 
 ### `scripts/phrase-bank-overrides.json` — traduções pré-definidas
 

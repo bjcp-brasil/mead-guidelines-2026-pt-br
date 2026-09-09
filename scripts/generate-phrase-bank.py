@@ -18,7 +18,19 @@ Usage:
 
 Re-run this after translating or revising a page, so newly-established
 wording feeds back into the bank for the next translator to match.
+
+phrase-bank-overrides.json (same directory as this script) holds
+canonical PT-BR wording agreed on *before* any page containing that
+sentence has been translated yet — e.g. someone pre-translates a batch
+of glossary phrases ahead of actually translating the pages. Never
+hand-edit PHRASE_BANK.md to add these; add them here instead, so a
+regeneration doesn't silently drop them (see CLAUDE.md: PHRASE_BANK.md
+is always generated, never hand-edited). Once a real page translates
+one of these sentences, its wording is compared against the override
+like any other source — a mismatch shows up as a normal divergence to
+resolve (pick one, update the other).
 """
+import json
 import re
 import subprocess
 import sys
@@ -28,6 +40,8 @@ from pathlib import Path
 GENESIS_COMMIT = "a1f9111"
 MIN_OCCURRENCES = 2
 MIN_SENTENCE_LEN = 20
+OVERRIDES_PATH = Path(__file__).parent / "phrase-bank-overrides.json"
+PREDEFINED_SOURCE = "predefined"
 
 # (path, short code used in the "Páginas" column, friendly name)
 ORDERED_FILES = [
@@ -62,6 +76,12 @@ ORDERED_FILES = [
     ("m4-specialty-mead/m4-f-experimental-mead.tex", "M4F", "M4F. Experimental Mead"),
 ]
 CODE_BY_PATH = {path: code for path, code, _ in ORDERED_FILES}
+
+
+def code_for(path):
+    if path == PREDEFINED_SOURCE:
+        return "pré-definido"
+    return CODE_BY_PATH[path]
 
 
 def get_original(path):
@@ -127,6 +147,35 @@ def get_labeled_blocks(raw_tex):
     return [(parts[i], parts[i + 1]) for i in range(1, len(parts) - 1, 2)]
 
 
+def extract_textit_blocks(raw_tex):
+    """Fallback for pages with no \\textbf{Label}: markers at all (header.tex
+    category-preamble pages: just one or more standalone \\textit{...}
+    paragraphs). Brace-depth-aware, since a paragraph can contain nested
+    \\textbf{...} (e.g. a bolded term inside the italic intro) that a naive
+    non-greedy regex would mistake for the end of the \\textit{}."""
+    blocks = []
+    for m in re.finditer(r"\\textit\{", raw_tex):
+        start = m.end()
+        depth = 1
+        i = start
+        while i < len(raw_tex) and depth > 0:
+            if raw_tex[i] == "{":
+                depth += 1
+            elif raw_tex[i] == "}":
+                depth -= 1
+            i += 1
+        blocks.append(("\\textit{", raw_tex[start:i - 1]))
+    return blocks
+
+
+def get_blocks(raw_tex):
+    """\\textbf{Label}: blocks when present; otherwise falls back to treating
+    each standalone \\textit{...} paragraph as its own block (header.tex
+    category-preamble pages have no field labels at all)."""
+    blocks = get_labeled_blocks(raw_tex)
+    return blocks if blocks else extract_textit_blocks(raw_tex)
+
+
 def build_repeated_sentence_index():
     locations = defaultdict(list)
     for path, _, _ in ORDERED_FILES:
@@ -149,8 +198,8 @@ def build_pt_variants():
     """
     variants = defaultdict(list)
     for path, _, _ in ORDERED_FILES:
-        orig_blocks = get_labeled_blocks(get_original(path))
-        curr_blocks = get_labeled_blocks(get_current(path))
+        orig_blocks = get_blocks(get_original(path))
+        curr_blocks = get_blocks(get_current(path))
         if len(orig_blocks) != len(curr_blocks):
             continue  # page not translated yet, or its block structure changed
         for (_, obody), (_, cbody) in zip(orig_blocks, curr_blocks):
@@ -163,6 +212,12 @@ def build_pt_variants():
                 if key == norm_key(c):
                     continue  # page (or this block) not translated yet
                 variants[key].append((c, path))
+
+    if OVERRIDES_PATH.exists():
+        overrides = json.loads(OVERRIDES_PATH.read_text(encoding="utf-8"))
+        for en, pt in overrides.items():
+            variants[norm_key(en)].append((pt, PREDEFINED_SOURCE))
+
     return variants
 
 
@@ -220,8 +275,10 @@ def render_markdown(repeated, variants, divergences):
     lines.append(
         f"**{len(items)} frases repetidas** encontradas, cobrindo "
         f"{sum(len(v) for v in repeated.values())} ocorrências no total. "
-        f"**{matched}/{len(items)}** já têm uma tradução canônica sugerida, extraída "
-        f"das páginas já traduzidas."
+        f"**{matched}/{len(items)}** já têm uma tradução canônica sugerida — extraída "
+        f"de páginas já traduzidas ou, quando marcado \"pré-definido\", combinada antes "
+        f"de qualquer página ter traduzido a frase (ver "
+        f"[`scripts/phrase-bank-overrides.json`](scripts/phrase-bank-overrides.json))."
     )
     lines.append("")
     lines.append("## Como usar")
@@ -257,7 +314,7 @@ def render_markdown(repeated, variants, divergences):
             en_example = repeated[key][0][1] if key in repeated else key
             lines.append(f"- EN: {en_example}")
             for pt_text, paths in by_wording.items():
-                pages = ", ".join(sorted({CODE_BY_PATH[p] for p in paths}, key=lambda c: (len(c), c)))
+                pages = ", ".join(sorted({code_for(p) for p in paths}, key=lambda c: (len(c), c)))
                 lines.append(f"  - \"{pt_text}\" — {pages}")
         lines.append("")
     else:

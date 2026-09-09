@@ -18,7 +18,7 @@ Nenhuma frase repetida com tradução conhecida está traduzida de mais de um je
 
 | Ocorrências | Frase original (EN) | Tradução canônica (PT-BR) | Páginas |
 | --- | --- | --- | --- |
-| 13x | Entrants must specify sweetness, carbonation, and strength levels. | Os participantes devem especificar os níveis de dulçor, carbonatação e teor alcoólico. | M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C, M4A, M4B, M4D, M4E, M4F |
+| 13x | Entrants must specify sweetness, carbonation, and strength levels. | Os participantes devem especificar os níveis de dulçor, carbonatação e força alcoólica. | M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C, M4A, M4B, M4D, M4E, M4F |
 | 12x | Any bubbles, foam, head, or effervescence is based on the declared carbonation level. | Quaisquer bolhas, espuma ou efervescência são baseados no nível de carbonatação declarado. | M1A, M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C, M4B |
 | 12x | Carbonation as indicated by declared level, from still to sparkling. | A carbonatação é indicada pelo nível declarado, de tranquilo a espumante. | M1A, M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C, M4B |
 | 12x | Honey varieties may be declared. | Variedades de mel podem ser declaradas. | M1A, M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C, M4C |
@@ -30,8 +30,8 @@ Nenhuma frase repetida com tradução conhecida está traduzida de mais de um je
 | 10x | Greater clarity is more desirable. | Deseja-se uma maior limpidez. | M1A, M1B, M1C, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
 | 10x | Balanced fermentation bouquet. | Buquê de fermentação equilibrada. | M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
 | 10x | Tannin may make a sweeter mead seem drier. | Taninos podem fazer um hidromel suave parecer mais seco. | M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
-| 9x | Body generally increases with sweetness and strength, typically medium-light to full. | O corpo geralmente aumenta com o dulçor e o teor alcoólico, tipicamente de médio-leve a cheio. | M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C, M4B |
-| 9x | Perceived alcohol by declared strength, ranging from none to noticeable and warming. | A percepção de álcool acompanha o teor alcoólico declarado, variando de ausente a perceptível e com sensação de aquecimento. | M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C, M4B |
+| 9x | Body generally increases with sweetness and strength, typically medium-light to full. | O corpo geralmente aumenta com o dulçor e a força alcoólica, tipicamente de médio-leve a cheio. | M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C, M4B |
+| 9x | Perceived alcohol by declared strength, ranging from none to noticeable and warming. | A percepção de álcool acompanha a força alcoólica declarada, variando de ausente a perceptível e com sensação de aquecimento. | M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C, M4B |
 | 8x | The honey character can be subtle to strong, depending on strength and sweetness, and can express the character of flower nectar, reflective of any declared honey varietals. | O caráter de mel pode variar de sutil a intenso, dependendo da potência e dulçor e pode expressar características florais do néctar, refletindo quaisquer variedades de mel declaradas. | M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
 | 8x | Residual sweetness and finish per the declared sweetness level. | Dulçor residual e final de acordo com o nível de dulçor declarado. | M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
 | 8x | Acidity should be balanced, soft, or bright but not sharp. | A acidez deve ser equilibrada, macia ou vibrante, mas não agressiva. | M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
@@ -47,7 +47,7 @@ Nenhuma frase repetida com tradução conhecida está traduzida de mais de um je
 | 4x | Color as derived from the variety of fruit and honey used. | Cor proveniente da variedade de fruta e mel utilizados. | M2C, M2D, M2E, M3C |
 | 3x | Color as derived from declared honey varieties, but often pale straw to gold. | A cor é proveniente das variedades de méis declarados, mas geralmente de amarelo palha à dourado. | M1A, M1B, M1C |
 | 3x | Flavors similar to fermented honey aromatics in the aroma. | Sabores semelhantes aos aromas de mel fermentado em Aroma. | M1A, M1B, M1C |
-| 3x | Stronger meads may have a fuller body and warmth. | Hidroméis com maior teor alcoólico podem apresentar corpo mais cheio e maior aquecimento alcoólico. | M1A, M1B, M1C |
+| 3x | Stronger meads may have a fuller body and warmth. | Hidroméis com maior força alcoólica podem apresentar corpo mais cheio e maior aquecimento alcoólico. | M1A, M1B, M1C |
 | 3x | Honey of any source. | Mel de qualquer origem. | M1A, M1B, M1C |
 | 3x | Varietal honeys are expected to exhibit distinctive characteristics associated from those declared varieties. | Espera-se que os méis varietais apresentem características distintas associadas às variedades declaradas. | M1A, M1B, M1C |
 | 3x | Category M1 describes the base character expected from dry, semi-sweet, and sweet meads. | A categoria M1 descreve o caráter base esperado de hidroméis secos, semi-secos e doces. | M2, M3, M4 |
@@ -57,7 +57,7 @@ Nenhuma frase repetida com tradução conhecida está traduzida de mais de um je
 | 3x | Spiced versions should be entered as a M3C Fruit and Spice Mead. | Versões com especiarias devem ser inscritas como M3C Fruit and Spice Mead. | M2C, M2D, M2E |
 | 3x | If multiple types of fruit are declared, they do not have to be in equal proportion, bearing in mind that some fruit are stronger and more distinctive than others. | Caso sejam declarados vários tipos de frutas, elas não precisam estar em proporções iguais, leve em conta que algumas frutas são mais intensas e têm características mais marcantes do que outras. | M2D, M2E, M3C |
 | 3x | Many possible descriptors exist, such as fragrant, aromatic, pungent, herbal, spicy, floral, fruity, smoky, earthy, resinous, minty, or words reminiscent of other ingredients (licorice-like, piney, citrusy, peppery). | Existem muitos descritores possíveis como perfumado, aromático, pungente, herbáceo, condimentado, floral, frutado, defumado, terroso, resinoso, mentolado ou termos que remetem a outros ingredientes (que lembram alcaçuz, pinho, frutas cítricas ou pimenta). | M3A, M3B, M3C |
-| 2x | The fruit aromatics may be perceived as anything in the range from a fresh sweet juice to an aged fruit wine or Port, depending on strength and sweetness. | Os aromas frutados podem ser percebidos como algo que varia desde um suco doce fresco até um vinho de frutas envelhecido ou um vinho do Porto, dependendo da intensidade/teor alcoólico e do dulçor. | M2E, M3C |
+| 2x | The fruit aromatics may be perceived as anything in the range from a fresh sweet juice to an aged fruit wine or Port, depending on strength and sweetness. | Os aromas frutados podem ser percebidos como algo que varia desde um suco doce fresco até um vinho de frutas envelhecido ou um vinho do Porto, dependendo da intensidade/força alcoólica e do dulçor. | M2E, M3C |
 | 2x | Declared herbs and spices should be noticeable. | As ervas e especiarias declaradas devem ser perceptíveis. | M3A, M3B |
 | 2x | If multiple herbs and spices are declared, they do not have to be in equal proportion, bearing in mind that some are stronger and more distinctive than others. | Caso sejam declaradas várias ervas e especiarias, elas não precisam estar em proporções iguais, leve em conta que algumas são mais intensas e têm características mais marcantes do que outras. | M3A, M3B |
 | 2x | Color as derived from the variety of honey used. | A cor é proveniente da variedade de mel utilizada. | M3A, M3B |

@@ -113,6 +113,32 @@ canônica em PT-BR já usada (quando já existe alguma página traduzida com ela
   canônica pras próximas ocorrências.
 - Limitação conhecida: é matching exato (após normalizar espaço/aspas/travessão),
   não pega paráfrase da mesma ideia com redação diferente.
+- `header.tex` de categoria (M2/M3/M4, o preâmbulo de cada categoria) não usa
+  `\textbf{Label}:` — é só um ou mais parágrafos `\textit{...}` soltos. O script
+  trata isso com um extrator separado (`extract_textit_blocks`/`get_blocks`),
+  já que esses arquivos não têm nenhum campo rotulado pra alinhar por label.
+
+### `scripts/phrase-bank-overrides.json` — traduções pré-definidas
+
+Às vezes uma tradução de uma frase repetida é decidida **antes** de qualquer
+página com essa frase ter sido traduzida (ex.: alguém manda um lote de frases
+já traduzidas como referência pra quem for traduzir M2/M3 depois). Isso entra
+nesse arquivo (`{"frase em inglês": "tradução em PT-BR"}`), nunca direto no
+`PHRASE_BANK.md` — mesma razão do item acima: só esse `.json` sobrevive a uma
+regeneração.
+
+- Antes de adicionar uma entrada nova, **sempre checar se já existe uma
+  tradução real vinda de alguma página já traduzida** (rodar o bank sem a
+  entrada nova e comparar) — se houver conflito, perguntar ao usuário qual
+  prevalece em vez de assumir. Já aconteceu de uma frase parecer "sem
+  tradução ainda" só porque o script tinha um bug de detecção (ver bug do
+  `header.tex` acima) e na real já estava traduzida numa página real.
+  Página real sempre tem prioridade por padrão, a menos que o usuário decida
+  o contrário explicitamente.
+- Uma vez que uma página real traduz essa frase de um jeito diferente do que
+  está no override, isso aparece como divergência normal (override conta
+  como mais uma "fonte", rotulada "pré-definido" na saída) — resolve-se do
+  mesmo jeito que qualquer outra divergência.
 
 ## Créditos de tradução
 

@@ -15,16 +15,16 @@
 \contentsline {subsection}{M2A. Cyser}{7}{section*.29}%
 \contentsline {subsection}{M2B. Pyment}{7}{section*.31}%
 \contentsline {subsection}{M2C. Berry Mead}{8}{section*.33}%
-\contentsline {subsection}{M2D. Stone Fruit Mead}{8}{section*.35}%
+\contentsline {subsection}{M2D. Stone Fruit Mead}{9}{section*.35}%
 \contentsline {subsection}{M2E. Other Fruit Mead}{9}{section*.37}%
-\contentsline {section}{M3. Spiced Mead}{10}{section*.39}%
-\contentsline {subsection}{M3A. Metheglin}{10}{section*.41}%
-\contentsline {subsection}{M3B. Vegetable Mead}{10}{section*.43}%
-\contentsline {subsection}{M3C. Fruit and Spice Mead}{11}{section*.45}%
-\contentsline {section}{M4. Specialty Mead}{13}{section*.47}%
-\contentsline {subsection}{M4A. Braggot}{13}{section*.49}%
-\contentsline {subsection}{M4B. Bochet}{13}{section*.51}%
-\contentsline {subsection}{M4C. Polish Mead}{14}{section*.53}%
-\contentsline {subsection}{M4D. Wood-Aged Mead}{15}{section*.55}%
-\contentsline {subsection}{M4E. Barrel-Aged Mead}{15}{section*.57}%
-\contentsline {subsection}{M4F. Experimental Mead}{16}{section*.59}%
+\contentsline {section}{M3. Spiced Mead}{11}{section*.39}%
+\contentsline {subsection}{M3A. Metheglin}{11}{section*.41}%
+\contentsline {subsection}{M3B. Vegetable Mead}{11}{section*.43}%
+\contentsline {subsection}{M3C. Fruit and Spice Mead}{12}{section*.45}%
+\contentsline {section}{M4. Specialty Mead}{14}{section*.47}%
+\contentsline {subsection}{M4A. Braggot}{14}{section*.49}%
+\contentsline {subsection}{M4B. Bochet}{14}{section*.51}%
+\contentsline {subsection}{M4C. Polish Mead}{15}{section*.53}%
+\contentsline {subsection}{M4D. Wood-Aged Mead}{16}{section*.55}%
+\contentsline {subsection}{M4E. Barrel-Aged Mead}{16}{section*.57}%
+\contentsline {subsection}{M4F. Experimental Mead}{17}{section*.59}%

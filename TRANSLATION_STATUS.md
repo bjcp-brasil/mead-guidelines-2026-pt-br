@@ -6,8 +6,8 @@ Antes de traduzir uma página, confira o [PHRASE_BANK.md](PHRASE_BANK.md) — o 
 
 ## Progresso geral
 
-- **Tradução:** 59,2% (51.503 de 86.996 caracteres)
-- **Revisão:** 0,0% (0 de 86.996 caracteres)
+- **Tradução:** 72,8% (64.418 de 88.489 caracteres)
+- **Revisão:** 0,0% (0 de 88.489 caracteres)
 
 | Página | Tradução | Revisão |
 | --- | --- | --- |
@@ -26,9 +26,9 @@ Antes de traduzir uma página, confira o [PHRASE_BANK.md](PHRASE_BANK.md) — o 
 | [M1B. Semi-Sweet Mead](m1-traditional-mead/m1-b-semi-sweet-mead.tex) | ✅ Traduzido | ⬜ Pendente |
 | [M1C. Sweet Mead](m1-traditional-mead/m1-c-sweet-mead.tex) | ⬜ Pendente | ⬜ Pendente |
 | [M2. Melomel (preâmbulo)](m2-melomel/header.tex) | ✅ Traduzido | ⬜ Pendente |
-| [M2A. Cyser](m2-melomel/m2-a-cyser.tex) | ⬜ Pendente | ⬜ Pendente |
-| [M2B. Pyment](m2-melomel/m2-b-pyment.tex) | ⬜ Pendente | ⬜ Pendente |
-| [M2C. Berry Mead](m2-melomel/m2-c-berry-mead.tex) | ⬜ Pendente | ⬜ Pendente |
+| [M2A. Cyser](m2-melomel/m2-a-cyser.tex) | ✅ Traduzido | ⬜ Pendente |
+| [M2B. Pyment](m2-melomel/m2-b-pyment.tex) | ✅ Traduzido | ⬜ Pendente |
+| [M2C. Berry Mead](m2-melomel/m2-c-berry-mead.tex) | ✅ Traduzido | ⬜ Pendente |
 | [M2D. Stone Fruit Mead](m2-melomel/m2-d-stone-fruit-mead.tex) | ⬜ Pendente | ⬜ Pendente |
 | [M2E. Other Fruit Mead](m2-melomel/m2-e-other-fruit-mead.tex) | ⬜ Pendente | ⬜ Pendente |
 | [M3. Spiced Mead (preâmbulo)](m3-spiced-mead/header.tex) | ✅ Traduzido | ⬜ Pendente |

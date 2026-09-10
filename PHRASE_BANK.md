@@ -18,7 +18,7 @@ Nenhuma frase repetida com tradução conhecida está traduzida de mais de um je
 
 | Ocorrências | Frase original (EN) | Tradução canônica (PT-BR) | Páginas |
 | --- | --- | --- | --- |
-| 13x | Entrants must specify sweetness, carbonation, and strength levels. | Os participantes devem especificar os níveis de dulçor, carbonatação e força alcoólica. | M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C, M4A, M4B, M4D, M4E, M4F |
+| 13x | Entrants must specify sweetness, carbonation, and strength levels. | Participantes devem especificar os níveis de dulçor, carbonatação e força alcoólica. | M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C, M4A, M4B, M4D, M4E, M4F |
 | 12x | Any bubbles, foam, head, or effervescence is based on the declared carbonation level. | A presença de bolhas, espuma, colarinho ou efervescência deve corresponder ao nível de carbonatação declarado. | M1A, M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C, M4B |
 | 12x | Carbonation as indicated by declared level, from still to sparkling. | A carbonatação segue o nível declarado, podendo ir de tranquilo a espumante. | M1A, M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C, M4B |
 | 12x | Honey varieties may be declared. | Variedades de mel podem ser declaradas. | M1A, M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C, M4C |

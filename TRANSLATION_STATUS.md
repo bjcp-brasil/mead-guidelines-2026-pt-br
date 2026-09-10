@@ -8,8 +8,8 @@ Antes de traduzir uma página, confira o [PHRASE_BANK.md](PHRASE_BANK.md) — o 
 
 ## Progresso geral
 
-- **Tradução:** 97,0% (88.685 de 91.398 caracteres)
-- **Revisão:** 0,0% (0 de 91.398 caracteres)
+- **Tradução:** 100,0% (91.643 de 91.643 caracteres)
+- **Revisão:** 0,0% (0 de 91.643 caracteres)
 
 | Página | Tradução | Revisão |
 | --- | --- | --- |
@@ -26,7 +26,7 @@ Antes de traduzir uma página, confira o [PHRASE_BANK.md](PHRASE_BANK.md) — o 
 | [M1. Traditional Mead (preâmbulo)](m1-traditional-mead/header.tex) | ✅ Traduzido | ⬜ Pendente |
 | [M1A. Dry Mead](m1-traditional-mead/m1-a-dry-mead.tex) | ✅ Traduzido | ⬜ Pendente |
 | [M1B. Semi-Sweet Mead](m1-traditional-mead/m1-b-semi-sweet-mead.tex) | ✅ Traduzido | ⬜ Pendente |
-| [M1C. Sweet Mead](m1-traditional-mead/m1-c-sweet-mead.tex) | ⬜ Pendente | ⬜ Pendente |
+| [M1C. Sweet Mead](m1-traditional-mead/m1-c-sweet-mead.tex) | ✅ Traduzido | ⬜ Pendente |
 | [M2. Melomel (preâmbulo)](m2-melomel/header.tex) | ✅ Traduzido | ⬜ Pendente |
 | [M2A. Cyser](m2-melomel/m2-a-cyser.tex) | ✅ Traduzido | ⬜ Pendente |
 | [M2B. Pyment](m2-melomel/m2-b-pyment.tex) | ✅ Traduzido | ⬜ Pendente |

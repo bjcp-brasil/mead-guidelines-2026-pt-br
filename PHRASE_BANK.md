@@ -19,12 +19,12 @@ Nenhuma frase repetida com tradução conhecida está traduzida de mais de um je
 | Ocorrências | Frase original (EN) | Tradução canônica (PT-BR) | Páginas |
 | --- | --- | --- | --- |
 | 13x | Entrants must specify sweetness, carbonation, and strength levels. | Os participantes devem especificar os níveis de dulçor, carbonatação e força alcoólica. | M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C, M4A, M4B, M4D, M4E, M4F |
-| 12x | Any bubbles, foam, head, or effervescence is based on the declared carbonation level. | Quaisquer bolhas, espuma ou efervescência são baseados no nível de carbonatação declarado. | M1A, M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C, M4B |
+| 12x | Any bubbles, foam, head, or effervescence is based on the declared carbonation level. | Quaisquer bolhas, espuma ou efervescência são baseadas no nível de carbonatação declarado. | M1A, M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C, M4B |
 | 12x | Carbonation as indicated by declared level, from still to sparkling. | A carbonatação é indicada pelo nível declarado, de tranquilo a espumante. | M1A, M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C, M4B |
 | 12x | Honey varieties may be declared. | Variedades de mel podem ser declaradas. | M1A, M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C, M4C |
 | 11x | Stronger meads may have a light, spicy alcohol note. | Hidroméis mais alcoólicos podem apresentar leves notas condimentadas oriundas do álcool. | M1A, M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
 | 11x | Carbonated meads tend to express more aroma. | Hidroméis carbonatados tendem a expressar mais aromas. | M1A, M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
-| 11x | Good to brilliant clarity. | De limpida à brilhante. | M1A, M1B, M1C, M2B, M2C, M2D, M2E, M3A, M3B, M3C, M4B |
+| 11x | Good to brilliant clarity. | De limpida a brilhante. | M1A, M1B, M1C, M2B, M2C, M2D, M2E, M3A, M3B, M3C, M4B |
 | 11x | Greater color vibrancy and brightness is more desirable. | Cores mais vivas e brilhantes são mais desejadas. | M1A, M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
 | 11x | Harsh, unpleasant, or excessively sulfury or yeasty fermentation characteristics are undesirable. | Características ásperas, desagradáveis ou excessivamente sulfurosas ou com notas de levedura/autólise são indesejáveis. | M1A, M1B, M1C, M2A, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
 | 10x | Greater clarity is more desirable. | Deseja-se uma maior limpidez. | M1A, M1B, M1C, M2B, M2C, M2D, M2E, M3A, M3B, M3C |
@@ -45,7 +45,7 @@ Nenhuma frase repetida com tradução conhecida está traduzida de mais de um je
 | 4x | Some fruit may bring basic flavors (bitter, sweet, sour) in addition to their distinctive characteristics. | Algumas frutas podem conferir gostos básicos (amargo, doce, ácido) além de suas características típicas. | M2B, M2C, M2D, M2E |
 | 4x | Fruited meads with other non-fruit ingredients should likely be entered as M4F Experimental Mead. | Hidroméis com frutas e outros ingredientes que não forem frutas provavelmente devem ser inscritos na categoria M4F (Experimental Mead). | M2B, M2C, M2D, M2E |
 | 4x | Color as derived from the variety of fruit and honey used. | Cor proveniente da variedade de fruta e mel utilizados. | M2C, M2D, M2E, M3C |
-| 3x | Color as derived from declared honey varieties, but often pale straw to gold. | A cor é proveniente das variedades de méis declarados, mas geralmente de amarelo palha à dourado. | M1A, M1B, M1C |
+| 3x | Color as derived from declared honey varieties, but often pale straw to gold. | A cor é proveniente das variedades de méis declarados, mas geralmente de amarelo palha a dourado. | M1A, M1B, M1C |
 | 3x | Flavors similar to fermented honey aromatics in the aroma. | Sabores semelhantes aos aromas de mel fermentado em Aroma. | M1A, M1B, M1C |
 | 3x | Stronger meads may have a fuller body and warmth. | Hidroméis com maior força alcoólica podem apresentar corpo mais cheio e maior aquecimento alcoólico. | M1A, M1B, M1C |
 | 3x | Honey of any source. | Mel de qualquer origem. | M1A, M1B, M1C |

@@ -8,8 +8,8 @@ Antes de traduzir uma página, confira o [PHRASE_BANK.md](PHRASE_BANK.md) — o 
 
 ## Progresso geral
 
-- **Tradução:** 97,0% (88.123 de 90.836 caracteres)
-- **Revisão:** 0,0% (0 de 90.836 caracteres)
+- **Tradução:** 97,0% (88.685 de 91.398 caracteres)
+- **Revisão:** 0,0% (0 de 91.398 caracteres)
 
 | Página | Tradução | Revisão |
 | --- | --- | --- |

@@ -12,9 +12,13 @@ Gerado por [`scripts/generate-phrase-bank.py`](scripts/generate-phrase-bank.py) 
 - Se aparece na lista **sem** tradução canônica (coluna vazia), essa é a primeira vez que a frase está sendo traduzida — escolha a redação e, depois, rode o script de novo pra ela entrar como canônica pras próximas ocorrências.
 - Depois de traduzir/revisar uma página, regenere este arquivo: `python3 scripts/generate-phrase-bank.py > PHRASE_BANK.md`.
 
-## ✅ Nenhuma divergência encontrada
+## ⚠️ 1 divergência(s) encontrada(s)
 
-Nenhuma frase repetida com tradução conhecida está traduzida de mais de um jeito nas páginas já traduzidas — mas isso vale só pro que já foi traduzido (e só pra correspondência exata; paráfrases da mesma ideia não são pegas).
+A mesma frase em inglês foi traduzida de mais de um jeito em páginas diferentes. Escolha uma redação e corrija as demais páginas pra convergir.
+
+- EN: Perceivable herbs, spices, or spice blends must be declared.
+  - "Ervas, especiarias ou misturas delas perceptíveis devem ser declaradas." — M3A
+  - "Ervas, especiarias ou misturas de especiarias perceptíveis devem ser declaradas." — M3B
 
 | Ocorrências | Frase original (EN) | Tradução canônica (PT-BR) | Páginas |
 | --- | --- | --- | --- |
@@ -61,9 +65,9 @@ Nenhuma frase repetida com tradução conhecida está traduzida de mais de um je
 | 2x | Declared herbs and spices should be noticeable. | As ervas e especiarias declaradas devem ser perceptíveis. | M3A, M3B |
 | 2x | If multiple herbs and spices are declared, they do not have to be in equal proportion, bearing in mind that some are stronger and more distinctive than others. | Caso sejam declaradas várias ervas e especiarias, elas não precisam estar em proporções iguais, leve em conta que algumas são mais intensas e têm características mais marcantes do que outras. | M3A, M3B |
 | 2x | Color as derived from the variety of honey used. | A cor é proveniente da variedade de mel utilizada. | M3A, M3B |
-| 2x | Spice additions may increase body, increase astringency, or add spicy-hot warming notes; none of these aspects should be excessive. | A adição de especiarias pode aumentar o corpo, elevar a adstringência ou conferir notas picantes e de aquecimento; nenhum desses aspectos deve ser excessivo. | M3A, M3B |
-| 2x | If spices are used in conjunction with other ingredients such as fruit, cider, or other fruit-based fermentables, then the mead should be entered as a M3C Fruit and Spice Mead. | Caso especiarias forem utilizadas em conjunto com outros ingredientes, como frutas, sidra ou outros fermentáveis à base de frutas, o hidromel deve ser inscrito na categoria M3C Fruit and Spice Mead. | M3A, M3B |
-| 2x | If spices are used in combination with other ingredients, then the mead should be entered as an M4F Experimental Mead. | Caso especiarias forem utilizadas em combinação com outros ingredientes, o hidromel deve ser inscrito na categoria M4F Experimental Mead. | M3A, M3B |
-| 2x | Perceivable herbs, spices, or spice blends must be declared. | Ervas, especiarias ou misturas de especiarias perceptíveis devem obrigatoriamente ser declaradas. | M3A, M3B |
+| 2x | Spice additions may increase body, increase astringency, or add spicy-hot warming notes; none of these aspects should be excessive. | As especiarias adicionadas podem aumentar o corpo, aumentar a adstringência ou trazer notas picantes e de aquecimento; nenhum desses aspectos deve ser excessivo. | M3A, M3B |
+| 2x | If spices are used in conjunction with other ingredients such as fruit, cider, or other fruit-based fermentables, then the mead should be entered as a M3C Fruit and Spice Mead. | Se as especiarias forem utilizadas em conjunto com outros ingredientes, como fruta, sidra ou outros fermentáveis à base de fruta, o hidromel deve ser inscrito como M3C Fruit and Spice Mead. | M3A, M3B |
+| 2x | If spices are used in combination with other ingredients, then the mead should be entered as an M4F Experimental Mead. | Se as especiarias forem utilizadas em combinação com outros tipos de ingredientes, o hidromel deve ser inscrito como M4F Experimental Mead. | M3A, M3B |
+| 2x | Perceivable herbs, spices, or spice blends must be declared. | ⚠️ Ervas, especiarias ou misturas delas perceptíveis devem ser declaradas. | M3A, M3B |
 | 2x | Meads with spicy-hot flavors should specify the level of heat (mild, medium, hot) to assist judges with ordering the samples. | Hidroméis com sabores picantes de pimenta devem especificar o nível de picância (suave, médio, forte) para auxiliar os jurados na ordenação das amostras. | M3B, M3C |
 | 2x | Same as the base style of mead, possibly with added tannins from the wood giving a drying quality and additional body. | A mesma do estilo-base de hidromel, possivelmente com taninos adicionais provenientes da madeira, contribuindo com maior sensação de secura e corpo. | M4D, M4E |

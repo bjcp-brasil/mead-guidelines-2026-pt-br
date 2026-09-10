@@ -84,6 +84,12 @@ páginas — uma entrada curta e uma longa não pesam igual):
 Sempre que uma página muda de status (traduzida ou revisada), atualizar a linha
 dela **e** recalcular as duas porcentagens no topo — nunca deixar desatualizado.
 
+**A coluna Revisão só marca ✅ com revisão humana.** Uma passada de revisão
+feita pelo Claude (gramática, concordância, bugs de LaTeX, convergência do
+phrase bank etc.) não conta como Revisão para este fim — mesmo corrigindo
+erros reais, não marque a página como revisada nessa coluna. Só o usuário
+(ou outra pessoa humana) revisando marca essa coluna.
+
 ## `PHRASE_BANK.md`
 
 O guia em inglês repete muita frase padronizada entre estilos (~40% de todo o

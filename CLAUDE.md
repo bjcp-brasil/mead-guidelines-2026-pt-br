@@ -30,7 +30,7 @@ Instruções para Inscrição, Exemplos Comerciais).
    ```
    latexmk -pdf -g -synctex=1 -interaction=nonstopmode main.tex
    grep -n "^!" main.log   # deve vir vazio
-   pdfinfo main.pdf | grep Pages   # deve ser 17
+   pdfinfo main.pdf | grep Pages   # deve ser 18
    ```
    `-g` força rebuild completo (senão o latexmk pula achando que já está atualizado)
    e `-synctex=1` é necessário explicitamente — o ambiente não gera `.synctex.gz` por

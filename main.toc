@@ -5,7 +5,7 @@
 \contentsline {subsection}{Aparência}{3}{section*.9}%
 \contentsline {subsection}{Sensação de Boca}{3}{section*.11}%
 \contentsline {subsection}{Impressão Geral}{3}{section*.13}%
-\contentsline {subsection}{Ingredientes}{3}{section*.15}%
+\contentsline {subsection}{Ingredientes}{4}{section*.15}%
 \contentsline {subsection}{Instruções para Inscrição}{4}{section*.17}%
 \contentsline {section}{M1. Traditional Mead}{5}{section*.19}%
 \contentsline {subsection}{M1A. Dry Mead}{5}{section*.21}%
